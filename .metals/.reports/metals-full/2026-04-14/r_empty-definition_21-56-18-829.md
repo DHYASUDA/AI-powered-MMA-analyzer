@@ -1,3 +1,14 @@
+error id: file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/userController.java:_empty_/RequestBody#
+file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/userController.java
+empty definition using pc, found symbol in pc: _empty_/RequestBody#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 876
+uri: file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/userController.java
+text:
+```scala
 package techskill.demo.Controller;
 
 import org.springframework.http.ResponseEntity;
@@ -20,16 +31,9 @@ public class userController {
         this.userService = userService;
     }
 
-    @PostMapping("/test")
-    public String postMethodName(@RequestBody String entity) {
-        
-        System.out.println(entity);
-        return entity;
-    }
-    
     //login
     @PostMapping("/submit")
-    public String printData(@RequestBody nameDTO request){
+    public String printData(@RequestBod@@y nameDTO request){
         System.out.println("hellov " + request.getName());
         System.out.println(request);
         return "Hello" + request.getName();
@@ -55,3 +59,10 @@ public class userController {
     }
 
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/RequestBody#

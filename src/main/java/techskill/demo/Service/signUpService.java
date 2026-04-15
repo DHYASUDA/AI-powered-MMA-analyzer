@@ -14,6 +14,9 @@ public class signUpService {
     public signUpService(userRepo userRepo){
         this.userRepo = userRepo;
     }
+    public void test(){
+        System.out.println("fefefefefe");
+    }
 
     public userEntity registerUser(signUpDTO signUp) throws Exception{
         if(userRepo.existsByEmail(signUp.getEmail())){
