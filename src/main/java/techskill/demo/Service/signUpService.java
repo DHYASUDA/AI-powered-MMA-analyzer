@@ -14,7 +14,9 @@ public class signUpService {
     public signUpService(userRepo userRepo){
         this.userRepo = userRepo;
     }
-    public void test(){
+    public void test(String test){
+        System.out.println(test  +"123");
+        System.out.println("fefefefefe");
         System.out.println("fefefefefe");
     }
 

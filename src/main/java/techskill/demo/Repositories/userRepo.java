@@ -12,7 +12,10 @@ import techskill.demo.Entity.userEntity;
 public interface userRepo extends JpaRepository<userEntity, Long>{
     Optional<userEntity> findByEmail(String email);
     Optional<userEntity> findByUserName(String userName);
-
+    
     boolean existsByEmail(String email);
     boolean existsByUserName(String userName);
+    boolean existsPasswordByEmail(String email, String password);
+    boolean existsPasswordByUserName(String userName, String password);
+    
 }

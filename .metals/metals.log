@@ -6055,3 +6055,754 @@ WARNING: Unmatched cancel notification for request id 297
 2026.04.14 23:47:44 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
 2026.04.14 23:47:45 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
 2026.04.14 23:47:45 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:53 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:53 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:56 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:56 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.14 23:49:56 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:49:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:01 INFO  empty definition using pc, found symbol in pc: _empty_/nameDTO#getName# (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-03-26\r_empty-definition_18-11-02-503.md")
+2026.04.14 23:51:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.14 23:51:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+Apr 14, 2026 11:51:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.14 23:51:49 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:16:27 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.04.15 14:16:27 INFO  Memory monitor started
+2026.04.15 14:16:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.15 14:16:33 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:16:36 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:16:53 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:17:21 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:17:31 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.15 14:17:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:24:35 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.04.16 16:24:35 INFO  Memory monitor started
+2026.04.16 16:24:40 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 16:24:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:25:03 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:04 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:05 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 16:49:05 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:06 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:49:06 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:02 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:31 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:50:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:56:09 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+Apr 16, 2026 4:56:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 16:57:16 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:57:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:57:17 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:57:20 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:57:21 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:57:25 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:09 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:11 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:16 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:58:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:33 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:33 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:36 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:58:41 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 16:58:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:51 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+Apr 16, 2026 4:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+2026.04.16 16:58:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:58:59 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:00 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:01 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 16:59:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:35 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:39 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 16:59:40 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DemoApplication.java
+2026.04.16 16:59:40 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.04.16 16:59:41 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:41 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:42 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:46 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:47 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DemoApplication.java
+2026.04.16 16:59:47 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.04.16 16:59:48 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:47 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:49 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:51 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java
+2026.04.16 16:59:51 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java. Using fallback presentation compiler.
+2026.04.16 16:59:51 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java. Using fallback presentation compiler.
+2026.04.16 16:59:51 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:52 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:52 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Entity\userEntity.java
+2026.04.16 16:59:52 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Entity\userEntity.java. Using fallback presentation compiler.
+2026.04.16 16:59:53 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Entity\userEntity.java. Using fallback presentation compiler.
+2026.04.16 16:59:55 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:55 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java
+2026.04.16 16:59:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java. Using fallback presentation compiler.
+2026.04.16 16:59:56 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java. Using fallback presentation compiler.
+2026.04.16 16:59:57 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:56 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 16:59:57 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\signUpDTO.java
+2026.04.16 16:59:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\signUpDTO.java. Using fallback presentation compiler.
+2026.04.16 16:59:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\signUpDTO.java. Using fallback presentation compiler.
+2026.04.16 16:59:59 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 16:59:59 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:03 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 17:00:03 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:03 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:00:03 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+Apr 16, 2026 5:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+Apr 16, 2026 5:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+Apr 16, 2026 5:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 186
+Apr 16, 2026 5:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+2026.04.16 17:00:03 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:05 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:08 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:12 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:00:12 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:00:21 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:00:23 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 17:00:23 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:23 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:25 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:25 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:27 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:00:27 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:00:54 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java
+2026.04.16 17:00:54 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:55 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\signUpService.java. Using fallback presentation compiler.
+2026.04.16 17:00:57 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:00:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:00:59 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:01 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:09 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:12 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:12 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:12 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:12 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:13 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:13 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:13 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:14 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:15 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:16 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:01:16 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:16 WARN  Running javac-semanticdb failed for file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/userController.java. Output:
+
+2026.04.16 17:01:18 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:18 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:18 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:18 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:19 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:01:21 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:01:21 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:02:40 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.04.16 17:02:51 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java. Using fallback presentation compiler.
+2026.04.16 17:02:52 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Entity\userEntity.java. Using fallback presentation compiler.
+2026.04.16 17:02:56 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java. Using fallback presentation compiler.
+2026.04.16 17:02:57 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\signUpDTO.java. Using fallback presentation compiler.
+2026.04.16 17:10:04 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:10:34 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:11:31 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.04.16 17:11:31 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:12:46 INFO  Shutting down server
+2026.04.16 17:12:46 INFO  Memory monitor stopped
+2026.04.16 17:12:46 INFO  shutting down Metals
+2026.04.16 17:12:46 INFO  Exiting server
+2026.04.16 17:13:51 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.04.16 17:13:51 INFO  Memory monitor started
+2026.04.16 17:13:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 17:13:58 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:14:01 INFO  running 'C:\Users\david\techskill\demo\gradlew.bat --stacktrace --console=plain --init-script C:\Users\david\AppData\Local\Temp\metals17561107335448252398\init-script.gradle bloopInstall'
+2026.04.16 17:14:08 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.04.16 17:14:10 INFO  > Task :configureBloopInstall
+2026.04.16 17:14:10 INFO  > Task :bloopInstall
+2026.04.16 17:14:10 INFO  
+2026.04.16 17:14:10 INFO  [Incubating] Problems report is available at: file:///C:/Users/david/techskill/demo/build/reports/problems/problems-report.html
+2026.04.16 17:14:10 INFO  
+2026.04.16 17:14:10 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.04.16 17:14:10 INFO  
+2026.04.16 17:14:10 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.04.16 17:14:10 INFO  
+2026.04.16 17:14:10 INFO  For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.04.16 17:14:10 INFO  
+2026.04.16 17:14:10 INFO  BUILD SUCCESSFUL in 9s
+2026.04.16 17:14:10 INFO  2 actionable tasks: 2 executed
+2026.04.16 17:14:10 INFO  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.3.1/userguide/configuration_cache_enabling.html
+2026.04.16 17:14:11 INFO  time: ran 'gradle bloopInstall' in 9.27s
+2026.04.16 17:14:11 INFO  Attempting to connect to the build server...
+2026.04.16 17:14:11 INFO  No running Bloop server found, starting one.
+2026.04.16 17:14:14 INFO  Starting compilation server
+2026.04.16 17:14:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\david\techskill\demo\.metals\bsp.trace.json or C:\Users\david\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.16 17:14:17 INFO  time: Connected to build server in 5.83s
+2026.04.16 17:14:16 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.16 17:14:17 INFO  time: Imported build in 0.2s
+2026.04.16 17:14:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 17:14:31 INFO  time: indexed workspace in 14s
+2026.04.16 17:14:32 INFO  compiling demo (8 java sources)
+2026.04.16 17:14:33 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:14:33 INFO  compiling demo-test (1 java source)
+2026.04.16 17:14:33 INFO  time: compiled demo in 2.42s
+2026.04.16 17:14:35 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:14:35 INFO  time: compiled demo-test in 1.5s
+2026.04.16 17:16:15 INFO  compiling demo (1 java source)
+2026.04.16 17:16:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:16:17 INFO  time: compiled demo in 1.69s
+2026.04.16 17:16:17 INFO  compiling demo (1 java source)
+2026.04.16 17:16:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:16:19 WARN  javac exited with exit code 1
+2026.04.16 17:16:19 INFO  time: compiled demo in 1.74s
+Apr 16, 2026 5:16:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2026.04.16 17:16:37 INFO  compiling demo (2 java sources)
+2026.04.16 17:16:38 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:16:38 INFO  time: compiled demo in 1.81s
+2026.04.16 17:16:53 INFO  compiling demo (1 java source)
+2026.04.16 17:16:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:16:55 INFO  time: compiled demo in 1.74s
+Apr 16, 2026 5:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+Apr 16, 2026 5:17:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 176
+2026.04.16 17:37:57 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/loginDTO.java]
+2026.04.16 17:37:57 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/loginDTO.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-04-16\r_qdox-error_(demo)_17-37-57-742.md")
+2026.04.16 17:37:57 INFO  compiling demo (1 java source)
+2026.04.16 17:37:59 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:37:59 INFO  time: compiled demo in 1.73s
+2026.04.16 17:38:00 INFO  compiling demo (1 java source)
+2026.04.16 17:38:01 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:38:01 INFO  time: compiled demo in 1.28s
+Apr 16, 2026 5:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 252
+Apr 16, 2026 5:38:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 255
+Apr 16, 2026 5:38:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2026.04.16 17:38:25 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/login.java]
+2026.04.16 17:38:25 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/login.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-04-16\r_qdox-error_(demo)_17-38-25-712.md")
+2026.04.16 17:38:25 INFO  compiling demo (1 java source)
+2026.04.16 17:38:27 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:38:27 INFO  time: compiled demo in 1.4s
+Apr 16, 2026 5:38:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 318
+Apr 16, 2026 5:38:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+Apr 16, 2026 5:38:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 323
+Apr 16, 2026 5:38:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 328
+Apr 16, 2026 5:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 379
+Apr 16, 2026 5:39:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 436
+Apr 16, 2026 5:39:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 439
+Apr 16, 2026 5:39:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 430
+Apr 16, 2026 5:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 437
+Apr 16, 2026 5:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 448
+Apr 16, 2026 5:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+Apr 16, 2026 5:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 451
+Apr 16, 2026 5:39:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 455
+Apr 16, 2026 5:39:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 458
+Apr 16, 2026 5:39:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470
+Apr 16, 2026 5:39:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 500
+Apr 16, 2026 5:39:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 527
+Apr 16, 2026 5:39:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 531
+Apr 16, 2026 5:39:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 557
+2026.04.16 17:40:18 INFO  compiling demo (1 java source)
+2026.04.16 17:40:20 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:40:20 INFO  time: compiled demo in 1.59s
+Apr 16, 2026 5:42:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 733
+Apr 16, 2026 5:42:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 751
+Apr 16, 2026 5:42:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+Apr 16, 2026 5:42:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 840
+Apr 16, 2026 5:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 848
+Apr 16, 2026 5:42:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 851
+Apr 16, 2026 5:42:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 852
+Apr 16, 2026 5:42:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 858
+Apr 16, 2026 5:42:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 882
+Apr 16, 2026 5:43:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 907
+2026.04.16 17:43:17 INFO  compiling demo (1 java source)
+2026.04.16 17:43:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:43:19 INFO  time: compiled demo in 1.89s
+2026.04.16 17:43:19 INFO  compiling demo (1 java source)
+2026.04.16 17:43:21 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:43:21 INFO  time: compiled demo in 1.78s
+2026.04.16 17:43:35 INFO  compiling demo (1 java source)
+2026.04.16 17:43:36 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java
+2026.04.16 17:43:37 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:43:37 INFO  time: compiled demo in 1.97s
+2026.04.16 17:43:37 INFO  compiling demo (1 java source)
+2026.04.16 17:43:39 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:43:39 INFO  time: compiled demo in 2.05s
+2026.04.16 17:43:39 INFO  compiling demo (1 java source)
+2026.04.16 17:43:41 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 17:43:41 INFO  time: compiled demo in 1.72s
+Apr 16, 2026 6:08:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1094
+Apr 16, 2026 6:08:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1132
+Apr 16, 2026 6:09:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1217
+Apr 16, 2026 6:09:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+2026.04.16 18:09:58 INFO  compiling demo (1 java source)
+2026.04.16 18:09:59 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:09:59 WARN  javac exited with exit code 1
+2026.04.16 18:09:59 INFO  time: compiled demo in 1.71s
+2026.04.16 18:09:59 INFO  compiling demo (1 java source)
+Apr 16, 2026 6:10:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+2026.04.16 18:10:01 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:10:01 WARN  javac exited with exit code 1
+2026.04.16 18:10:01 INFO  time: compiled demo in 1.57s
+Apr 16, 2026 6:10:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1296
+Apr 16, 2026 6:10:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1301
+Apr 16, 2026 6:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1315
+Apr 16, 2026 6:10:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1372
+2026.04.16 18:11:21 INFO  compiling demo (2 java sources)
+2026.04.16 18:11:23 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:11:23 WARN  javac exited with exit code 1
+2026.04.16 18:11:23 INFO  time: compiled demo in 1.9s
+Apr 16, 2026 6:11:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1434
+Apr 16, 2026 6:11:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1439
+Apr 16, 2026 6:11:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1442
+Apr 16, 2026 6:11:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1459
+Apr 16, 2026 6:11:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1464
+Apr 16, 2026 6:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1471
+Apr 16, 2026 6:12:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1480
+Apr 16, 2026 6:12:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1491
+Apr 16, 2026 6:15:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1534
+Apr 16, 2026 6:15:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1561
+2026.04.16 18:16:34 INFO  compiling demo (2 java sources)
+2026.04.16 18:16:36 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:16:36 WARN  javac exited with exit code 1
+2026.04.16 18:16:36 INFO  time: compiled demo in 1.8s
+2026.04.16 18:16:36 INFO  compiling demo (2 java sources)
+2026.04.16 18:16:37 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:16:37 WARN  javac exited with exit code 1
+2026.04.16 18:16:37 INFO  time: compiled demo in 1.66s
+2026.04.16 18:16:56 INFO  compiling demo (2 java sources)
+2026.04.16 18:16:58 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:16:58 INFO  time: compiled demo in 1.99s
+2026.04.16 18:16:58 INFO  compiling demo (1 java source)
+2026.04.16 18:17:00 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:17:00 INFO  time: compiled demo in 1.91s
+2026.04.16 18:18:13 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/loginServices.java]
+2026.04.16 18:18:13 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/loginServices.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-04-16\r_qdox-error_(demo)_18-18-13-152.md")
+2026.04.16 18:18:13 INFO  compiling demo (1 java source)
+2026.04.16 18:18:14 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:18:14 INFO  time: compiled demo in 1.24s
+Apr 16, 2026 6:18:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1640
+Apr 16, 2026 6:18:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1645
+Apr 16, 2026 6:18:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1732
+Apr 16, 2026 6:19:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1881
+Apr 16, 2026 6:19:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1895
+Apr 16, 2026 6:19:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1891
+Apr 16, 2026 6:19:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1898
+Apr 16, 2026 6:19:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1982
+Apr 16, 2026 6:19:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1988
+Apr 16, 2026 6:19:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2002
+2026.04.16 18:20:19 INFO  compiling demo (1 java source)
+2026.04.16 18:20:20 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:20:20 INFO  time: compiled demo in 1.61s
+Apr 16, 2026 6:20:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2088
+Apr 16, 2026 6:20:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2192
+Apr 16, 2026 6:20:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2205
+Apr 16, 2026 6:21:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2210
+Apr 16, 2026 6:21:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2246
+Apr 16, 2026 6:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2251
+Apr 16, 2026 6:21:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2255
+Apr 16, 2026 6:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2328
+Apr 16, 2026 6:22:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2339
+Apr 16, 2026 6:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2382
+Apr 16, 2026 6:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2380
+Apr 16, 2026 6:24:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2458
+Apr 16, 2026 6:24:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2461
+Apr 16, 2026 6:24:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2475
+Apr 16, 2026 6:24:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2492
+Apr 16, 2026 6:24:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2536
+Apr 16, 2026 6:24:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2635
+Apr 16, 2026 6:25:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2691
+Apr 16, 2026 6:27:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2762
+Apr 16, 2026 6:27:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2772
+Apr 16, 2026 6:27:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2849
+Apr 16, 2026 6:27:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2852
+Apr 16, 2026 6:27:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2857
+Apr 16, 2026 6:27:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2863
+Apr 16, 2026 6:27:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2873
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2875
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2876
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2877
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2880
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2881
+Apr 16, 2026 6:27:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2882
+Apr 16, 2026 6:27:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2884
+Apr 16, 2026 6:27:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2885
+Apr 16, 2026 6:27:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2886
+Apr 16, 2026 6:27:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2914
+Apr 16, 2026 6:27:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2929
+Apr 16, 2026 6:27:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2934
+Apr 16, 2026 6:28:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2977
+Apr 16, 2026 6:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2985
+Apr 16, 2026 6:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2986
+Apr 16, 2026 6:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2987
+Apr 16, 2026 6:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2988
+Apr 16, 2026 6:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2992
+Apr 16, 2026 6:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2993
+Apr 16, 2026 6:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3009
+Apr 16, 2026 6:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3014
+Apr 16, 2026 6:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3094
+Apr 16, 2026 6:28:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3141
+2026.04.16 18:28:37 INFO  compiling demo (1 java source)
+2026.04.16 18:28:39 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:28:39 INFO  time: compiled demo in 1.8s
+Apr 16, 2026 6:29:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3224
+Apr 16, 2026 6:29:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3249
+Apr 16, 2026 6:29:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3267
+Apr 16, 2026 6:29:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3280
+Apr 16, 2026 6:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3285
+Apr 16, 2026 6:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3321
+Apr 16, 2026 6:30:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3323
+Apr 16, 2026 6:30:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3325
+Apr 16, 2026 6:30:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3327
+Apr 16, 2026 6:30:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3339
+Apr 16, 2026 6:30:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3354
+Apr 16, 2026 6:30:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3411
+Apr 16, 2026 6:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3418
+Apr 16, 2026 6:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3419
+2026.04.16 18:30:54 INFO  compiling demo (1 java source)
+2026.04.16 18:30:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:30:55 INFO  time: compiled demo in 1.9s
+Apr 16, 2026 6:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3520
+Apr 16, 2026 6:31:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3544
+Apr 16, 2026 6:31:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3574
+2026.04.16 18:32:16 INFO  compiling demo (1 java source)
+2026.04.16 18:32:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:32:17 INFO  time: compiled demo in 1.73s
+2026.04.16 18:32:17 INFO  compiling demo (2 java sources)
+2026.04.16 18:32:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:32:19 INFO  time: compiled demo in 1.85s
+Apr 16, 2026 6:32:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3654
+Apr 16, 2026 6:32:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3658
+Apr 16, 2026 6:32:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3661
+Apr 16, 2026 6:32:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3665
+Apr 16, 2026 6:32:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3676
+Apr 16, 2026 6:32:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3701
+2026.04.16 18:32:53 INFO  compiling demo (1 java source)
+2026.04.16 18:32:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:32:55 INFO  time: compiled demo in 1.82s
+Apr 16, 2026 6:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3832
+2026.04.16 18:53:02 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/config/WebConfig.java]
+2026.04.16 18:53:02 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/config/WebConfig.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-04-16\r_qdox-error_(demo)_18-53-02-064.md")
+2026.04.16 18:53:02 INFO  compiling demo (1 java source)
+Apr 16, 2026 6:53:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3858
+2026.04.16 18:53:03 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:53:03 INFO  time: compiled demo in 1.45s
+2026.04.16 18:53:07 INFO  compiling demo (1 java source)
+2026.04.16 18:53:09 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:53:09 INFO  time: compiled demo in 1.66s
+2026.04.16 18:53:50 INFO  compiling demo (1 java source)
+Apr 16, 2026 6:53:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3898
+2026.04.16 18:53:52 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:53:52 INFO  time: compiled demo in 2.08s
+2026.04.16 18:54:09 INFO  compiling demo (1 java source)
+2026.04.16 18:54:11 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:54:11 INFO  time: compiled demo in 1.81s
+2026.04.16 18:56:35 INFO  compiling demo (1 java source)
+2026.04.16 18:56:36 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Repositories\userRepo.java
+2026.04.16 18:56:37 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:56:37 INFO  time: compiled demo in 1.68s
+2026.04.16 18:56:37 INFO  compiling demo (2 java sources)
+2026.04.16 18:56:39 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 18:56:39 INFO  time: compiled demo in 1.75s
+Apr 16, 2026 7:51:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3970
+2026.04.16 19:51:29 INFO  compiling demo (1 java source)
+2026.04.16 19:51:29 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\loginServices.java
+2026.04.16 19:51:31 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:51:31 INFO  time: compiled demo in 2.43s
+Apr 16, 2026 7:51:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4077
+Apr 16, 2026 7:51:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4072
+2026.04.16 19:52:01 INFO  compiling demo (1 java source)
+2026.04.16 19:52:03 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:52:03 INFO  time: compiled demo in 1.75s
+Apr 16, 2026 7:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4170
+Apr 16, 2026 7:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4169
+Apr 16, 2026 7:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4173
+Apr 16, 2026 7:52:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4179
+Apr 16, 2026 7:52:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4187
+Apr 16, 2026 7:52:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4194
+2026.04.16 19:53:06 INFO  compiling demo (1 java source)
+2026.04.16 19:53:08 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:53:08 INFO  time: compiled demo in 1.63s
+2026.04.16 19:53:11 INFO  compiling demo (1 java source)
+2026.04.16 19:53:13 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:53:13 INFO  time: compiled demo in 1.49s
+Apr 16, 2026 7:54:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4279
+Apr 16, 2026 7:54:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4280
+Apr 16, 2026 7:54:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4283
+Apr 16, 2026 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4318
+Apr 16, 2026 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4319
+Apr 16, 2026 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4320
+Apr 16, 2026 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4321
+Apr 16, 2026 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4324
+Apr 16, 2026 7:54:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4325
+Apr 16, 2026 7:54:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4328
+2026.04.16 19:55:15 INFO  compiling demo (1 java source)
+2026.04.16 19:55:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:55:17 INFO  time: compiled demo in 2.05s
+2026.04.16 19:55:27 INFO  compiling demo (1 java source)
+2026.04.16 19:55:29 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:55:29 INFO  time: compiled demo in 1.71s
+Apr 16, 2026 7:56:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4462
+Apr 16, 2026 7:58:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4589
+2026.04.16 19:58:50 INFO  compiling demo (1 java source)
+2026.04.16 19:58:51 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:58:51 INFO  time: compiled demo in 1.89s
+Apr 16, 2026 7:59:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4627
+Apr 16, 2026 7:59:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4644
+Apr 16, 2026 7:59:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4676
+Apr 16, 2026 7:59:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4731
+Apr 16, 2026 7:59:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4724
+Apr 16, 2026 7:59:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4745
+Apr 16, 2026 7:59:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4772
+Apr 16, 2026 7:59:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4806
+Apr 16, 2026 7:59:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4807
+Apr 16, 2026 7:59:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4808
+Apr 16, 2026 7:59:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4809
+Apr 16, 2026 7:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4869
+Apr 16, 2026 7:59:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4943
+2026.04.16 19:59:57 INFO  compiling demo (1 java source)
+2026.04.16 19:59:58 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 19:59:58 INFO  time: compiled demo in 2.06s
+Apr 16, 2026 8:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4998
+2026.04.16 20:00:57 INFO  compiling demo (1 java source)
+2026.04.16 20:00:59 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 20:00:59 INFO  time: compiled demo in 1.82s
+Apr 16, 2026 8:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5052
+2026.04.16 20:03:49 INFO  compiling demo (1 java source)
+2026.04.16 20:03:51 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.04.16 20:03:51 INFO  time: compiled demo in 1.8s
+Apr 16, 2026 8:24:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5124
