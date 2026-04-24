@@ -10,8 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 import techskill.demo.DTO.loginDTO;
 import techskill.demo.DTO.nameDTO;
 import techskill.demo.DTO.signUpDTO;
+import techskill.demo.DTO.userEdit;
+import techskill.demo.Entity.userEntity;
 import techskill.demo.Service.loginServices;
 import techskill.demo.Service.signUpService;
+import techskill.demo.Service.userService;
 @RestController
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:5173")
@@ -19,11 +22,21 @@ public class userController {
 
     private final signUpService userService;
     private final loginServices login;
-    public userController(signUpService userService, loginServices login){
+    private final userService user;
+    public userController(signUpService userService, loginServices login, userService user){
         this.userService = userService;
         this.login = login;
+        this.user = user;
     }
 
+    @PostMapping("/edit")
+    public userEdit editt(@RequestBody userEdit request){
+        System.out.println(request + "hello");
+        System.out.println(request.getUserName());
+        System.out.println("ID:" + request.getId());
+        return request;
+
+    }
 
     @PostMapping("/test")
     public String postMethodName(@RequestBody String entity) {
@@ -39,18 +52,32 @@ public class userController {
     @PostMapping("/submit")
     public String printData(@RequestBody nameDTO request){
         System.out.println("hellov " + request.getName());
-        System.out.println(request);
+        System.out.println("Hello " +request);
         return "Hello" + request.getName();
     }
 
-    @PostMapping("/login")
-    public ResponseEntity<String> login(@RequestBody loginDTO request){
+    @PostMapping("/updateUserName")
+    public void edit (@RequestBody userEdit request){
+        System.out.println(request + "hello");
+        System.out.println(request.getUserName());
+        //user.updateUserName(request);
         try{
-            login.getUser(request);
-            return ResponseEntity.ok("dw");
+            System.out.println("dwjdwijdwqidjwidjwidj");
+        user.haha(request);
+        } catch(Exception e){
+            System.out.println(e);
+        }
+       
+    }
+
+    @PostMapping("/login")
+    public ResponseEntity<userEntity> login(@RequestBody loginDTO request){
+        try{
+            userEntity user =  login.getUser(request);
+            return ResponseEntity.ok(user);
         }catch (Exception e) {
             // Return error message if email or username already exists
-            return ResponseEntity.badRequest().body(e.getMessage());
+            return ResponseEntity.badRequest().build();
         }
         
     }

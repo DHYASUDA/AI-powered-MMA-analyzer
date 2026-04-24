@@ -12,6 +12,8 @@ import techskill.demo.Entity.userEntity;
 public interface userRepo extends JpaRepository<userEntity, Long>{
     Optional<userEntity> findByEmail(String email);
     Optional<userEntity> findByUserName(String userName);
+    Optional<userEntity> findById(Long id);
+    
     
     boolean existsByEmail(String email);
     boolean existsByUserName(String userName);

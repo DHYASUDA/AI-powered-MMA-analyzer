@@ -17,23 +17,19 @@ public class loginServices{
     }
 
     public userEntity getUser(loginDTO login) throws Exception{
-        if(!userRepo.existsByEmail(login.getEmail())){
-            System.out.println("user doesnt exist");
-            throw new Exception("User doesnt exist");
-        }   else {
-            System.out.println(login.getEmail() + " user exists");
-        }
-
-         String email = login.getEmail();
-         String password = login.getPassword();
-        
-         userEntity user = userRepo.findByEmail(email)
+        String email = login.getEmail();
+        String password = login.getPassword();
+        userEntity user = userRepo.findByEmail(email)
          .orElseThrow(() -> new Exception("User not found"));
+
+
         System.out.println(user.toString());
+
          if(user.getPassword().equals(password)){
             System.out.println("Login succesful!");
          } else {
             System.out.println("Login unsucessful");
+              throw new Exception("Incorrect password");
          }
         
         return user;
