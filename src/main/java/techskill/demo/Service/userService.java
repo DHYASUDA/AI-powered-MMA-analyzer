@@ -26,4 +26,10 @@ public class userService{
         return userRepo.save(user);
     }
 
+    public String printName(String request){
+        
+        System.out.println(request);
+        return request;
+    }
+
 } 

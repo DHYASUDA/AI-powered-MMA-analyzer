@@ -40,14 +40,16 @@ public class userController {
 
     @PostMapping("/test")
     public String postMethodName(@RequestBody String entity) {
-        
         System.out.println(entity + " hello");
         userService.test(entity);
         return entity;
     }
 
-    
-    
+    @PostMapping("/biggie")
+    public void aiDev(@RequestBody String entity) {
+        System.out.println(entity);
+        
+    }
     //login
     @PostMapping("/submit")
     public String printData(@RequestBody nameDTO request){
