@@ -11588,3 +11588,609 @@ WARNING: Unmatched cancel notification for request id 2505
 2026.05.26 21:41:55 INFO  compiling demo (1 java source)
 2026.05.26 21:41:57 WARN  javac: [options] system modules path not set in conjunction with -source 17
 2026.05.26 21:41:57 INFO  time: compiled demo in 2.29s
+May 26, 2026 9:54:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2671
+May 26, 2026 9:55:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2693
+May 26, 2026 9:58:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2748
+May 26, 2026 9:58:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2763
+May 26, 2026 9:58:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2773
+May 26, 2026 9:58:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2771
+2026.05.26 21:59:01 INFO  compiling demo (1 java source)
+2026.05.26 21:59:03 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 21:59:03 INFO  time: compiled demo in 2.74s
+May 26, 2026 10:00:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2877
+May 26, 2026 10:00:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2884
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2885
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2886
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2891
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2892
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2896
+May 26, 2026 10:00:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2907
+May 26, 2026 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2946
+May 26, 2026 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2947
+May 26, 2026 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2948
+May 26, 2026 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2950
+May 26, 2026 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2951
+May 26, 2026 10:00:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2952
+May 26, 2026 10:00:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2962
+May 26, 2026 10:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2964
+May 26, 2026 10:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2965
+May 26, 2026 10:00:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2966
+May 26, 2026 10:00:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2970
+May 26, 2026 10:00:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2988
+May 26, 2026 10:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2971
+May 26, 2026 10:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2998
+May 26, 2026 10:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2999
+May 26, 2026 10:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2972
+May 26, 2026 10:01:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3000
+May 26, 2026 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3002
+May 26, 2026 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3001
+May 26, 2026 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3003
+May 26, 2026 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3005
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3006
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3004
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3007
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3011
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3009
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3012
+May 26, 2026 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3010
+May 26, 2026 10:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3013
+May 26, 2026 10:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3019
+May 26, 2026 10:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3020
+May 26, 2026 10:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3018
+May 26, 2026 10:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3021
+May 26, 2026 10:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3028
+May 26, 2026 10:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3027
+May 26, 2026 10:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3024
+May 26, 2026 10:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3032
+May 26, 2026 10:01:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3033
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3030
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3038
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3034
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3037
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3039
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3040
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3044
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3048
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3046
+May 26, 2026 10:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3045
+May 26, 2026 10:01:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3054
+May 26, 2026 10:01:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3063
+May 26, 2026 10:01:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3064
+May 26, 2026 10:01:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3066
+May 26, 2026 10:01:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3070
+May 26, 2026 10:02:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3198
+May 26, 2026 10:02:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3206
+May 26, 2026 10:02:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3223
+May 26, 2026 10:02:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3244
+May 26, 2026 10:02:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3247
+May 26, 2026 10:02:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3253
+May 26, 2026 10:02:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3257
+May 26, 2026 10:02:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3262
+May 26, 2026 10:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3264
+May 26, 2026 10:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3267
+May 26, 2026 10:02:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3277
+May 26, 2026 10:02:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3283
+May 26, 2026 10:02:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3289
+May 26, 2026 10:02:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3293
+May 26, 2026 10:02:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3292
+May 26, 2026 10:02:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3297
+May 26, 2026 10:02:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3299
+May 26, 2026 10:02:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3302
+May 26, 2026 10:02:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3304
+May 26, 2026 10:03:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3309
+May 26, 2026 10:03:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3310
+May 26, 2026 10:03:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3308
+May 26, 2026 10:03:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3317
+May 26, 2026 10:03:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3326
+2026.05.26 22:03:20 INFO  compiling demo (1 java source)
+2026.05.26 22:03:22 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:03:22 INFO  time: compiled demo in 2.21s
+2026.05.26 22:03:22 INFO  compiling demo (2 java sources)
+2026.05.26 22:03:24 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:03:24 INFO  time: compiled demo in 2.16s
+May 26, 2026 10:03:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3370
+2026.05.26 22:03:44 INFO  compiling demo (1 java source)
+2026.05.26 22:03:46 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:03:46 INFO  time: compiled demo in 2.11s
+May 26, 2026 10:04:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3425
+May 26, 2026 10:04:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3430
+May 26, 2026 10:04:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3447
+2026.05.26 22:04:15 INFO  compiling demo (1 java source)
+2026.05.26 22:04:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:04:17 INFO  time: compiled demo in 2.18s
+May 26, 2026 10:04:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3469
+2026.05.26 22:04:55 INFO  compiling demo (1 java source)
+2026.05.26 22:04:57 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:04:57 INFO  time: compiled demo in 2.2s
+May 26, 2026 10:04:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3501
+May 26, 2026 10:04:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3512
+May 26, 2026 10:05:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3525
+May 26, 2026 10:05:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3533
+May 26, 2026 10:05:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3546
+May 26, 2026 10:05:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3539
+2026.05.26 22:05:07 INFO  compiling demo (1 java source)
+2026.05.26 22:05:09 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:05:09 INFO  time: compiled demo in 2.13s
+May 26, 2026 10:05:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3584
+May 26, 2026 10:05:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3651
+May 26, 2026 10:05:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3653
+May 26, 2026 10:05:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3670
+2026.05.26 22:06:05 INFO  compiling demo (1 java source)
+2026.05.26 22:06:07 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:06:07 WARN  javac exited with exit code 1
+2026.05.26 22:06:07 INFO  time: compiled demo in 2.13s
+May 26, 2026 10:06:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3726
+May 26, 2026 10:06:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3735
+2026.05.26 22:06:19 INFO  file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:70:64: stale bloop error:  error: cannot find symbol
+            """ + eventData.toString() + curDate.toString()  + fighterStat;
+                                                               ^
+2026.05.26 22:06:20 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java]
+2026.05.26 22:06:20 INFO  empty definition using pc, found symbol in pc: _empty_/fighterStat# (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_empty-definition_(demo)_22-06-20-310.md")
+May 26, 2026 10:06:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3748
+2026.05.26 22:06:30 INFO  file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:70:64: stale bloop error:  error: cannot find symbol
+            """ + eventData.toString() + curDate.toString()  + fighterStat;
+                                                               ^
+2026.05.26 22:06:30 INFO  file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:70:64: stale bloop error:  error: cannot find symbol
+            """ + eventData.toString() + curDate.toString()  + fighterStat;
+                                                               ^
+2026.05.26 22:06:30 INFO  file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:70:64: stale bloop error:  error: cannot find symbol
+            """ + eventData.toString() + curDate.toString()  + fighterStat;
+                                                               ^
+2026.05.26 22:06:33 INFO  compiling demo (1 java source)
+2026.05.26 22:06:35 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.26 22:06:35 INFO  time: compiled demo in 2.02s
+May 26, 2026 10:07:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3787
+2026.05.28 18:22:36 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.05.28 18:22:36 INFO  Memory monitor started
+2026.05.28 18:22:41 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.28 18:22:42 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.05.28 18:22:42 INFO  Attempting to connect to the build server...
+2026.05.28 18:22:43 INFO  No running Bloop server found, starting one.
+2026.05.28 18:22:45 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.05.28 18:22:49 INFO  Starting compilation server
+2026.05.28 18:22:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\david\techskill\demo\.metals\bsp.trace.json or C:\Users\david\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.05.28 18:22:56 INFO  time: Connected to build server in 13s
+2026.05.28 18:22:56 INFO  Connected to Build server: Bloop v2.0.19
+2026.05.28 18:22:57 INFO  time: Imported build in 0.68s
+2026.05.28 18:23:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.28 18:23:16 INFO  time: indexed workspace in 19s
+2026.05.28 18:45:35 INFO  compiling demo (1 java source)
+2026.05.28 18:45:37 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 18:45:37 INFO  time: compiled demo in 3.01s
+2026.05.28 18:54:56 INFO  compiling demo (1 java source)
+2026.05.28 18:54:56 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java
+2026.05.28 18:54:58 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 18:54:58 INFO  time: compiled demo in 2.21s
+May 28, 2026 6:55:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 306
+2026.05.28 19:05:47 INFO  compiling demo (1 java source)
+2026.05.28 19:05:49 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 19:05:49 INFO  time: compiled demo in 2.15s
+2026.05.28 19:07:34 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java
+2026.05.28 19:07:34 INFO  compiling demo (1 java source)
+2026.05.28 19:07:36 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 19:07:36 INFO  time: compiled demo in 1.95s
+2026.05.28 19:48:28 INFO  QDox parse error in /org/springframework/web/client/RestClient.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-18-892.md")
+2026.05.28 19:48:28 INFO  QDox parse error in /org/springframework/web/client/RestClient.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-18-892.md")
+May 28, 2026 7:48:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+May 28, 2026 7:48:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 542
+May 28, 2026 7:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 567
+May 28, 2026 7:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 565
+May 28, 2026 7:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 569
+May 28, 2026 7:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 576
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 580
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 579
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 577
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 592
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 596
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 594
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 599
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 605
+May 28, 2026 7:50:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 608
+May 28, 2026 7:50:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651
+May 28, 2026 7:50:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+May 28, 2026 7:50:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 655
+2026.05.28 19:50:54 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/mmaService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-47-642.md")
+2026.05.28 19:50:54 INFO  compiling demo (1 java source)
+2026.05.28 19:50:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 19:50:55 WARN  javac exited with exit code 1
+2026.05.28 19:50:55 INFO  time: compiled demo in 1.18s
+May 28, 2026 7:50:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 672
+May 28, 2026 7:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 734
+May 28, 2026 7:51:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 740
+May 28, 2026 7:51:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 741
+May 28, 2026 7:51:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 764
+May 28, 2026 7:51:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 766
+May 28, 2026 7:51:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 768
+May 28, 2026 7:51:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 770
+May 28, 2026 7:51:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 827
+May 28, 2026 7:52:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+May 28, 2026 7:52:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 887
+May 28, 2026 7:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 948
+May 28, 2026 7:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 946
+May 28, 2026 7:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 952
+May 28, 2026 7:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 953
+May 28, 2026 7:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 954
+May 28, 2026 7:52:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1033
+May 28, 2026 7:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1106
+May 28, 2026 7:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1103
+May 28, 2026 7:53:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1265
+May 28, 2026 7:53:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1264
+May 28, 2026 7:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1355
+May 28, 2026 7:54:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1399
+May 28, 2026 7:54:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1453
+May 28, 2026 7:54:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1471
+May 28, 2026 7:54:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1476
+May 28, 2026 7:55:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1531
+May 28, 2026 7:55:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1558
+May 28, 2026 8:01:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1649
+May 28, 2026 8:02:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1692
+May 28, 2026 8:02:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1695
+2026.05.28 20:02:36 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/mmaService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-47-642.md")
+2026.05.28 20:02:36 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/mmaService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-47-642.md")
+2026.05.28 20:02:36 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/mmaService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_13-43-47-642.md")
+May 28, 2026 8:03:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1877
+May 28, 2026 8:03:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1879
+May 28, 2026 8:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1886
+May 28, 2026 8:03:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1926
+May 28, 2026 8:03:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1930
+May 28, 2026 8:03:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1934
+May 28, 2026 8:03:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1937
+2026.05.28 20:03:21 INFO  compiling demo (1 java source)
+2026.05.28 20:03:23 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:03:23 INFO  time: compiled demo in 2.43s
+2026.05.28 20:03:23 INFO  compiling demo (2 java sources)
+2026.05.28 20:03:25 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:03:25 WARN  javac exited with exit code 1
+2026.05.28 20:03:25 INFO  time: compiled demo in 2.02s
+May 28, 2026 8:04:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2016
+May 28, 2026 8:04:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2020
+2026.05.28 20:04:39 INFO  compiling demo (1 java source)
+2026.05.28 20:04:41 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:04:41 INFO  time: compiled demo in 2.24s
+2026.05.28 20:04:41 INFO  compiling demo (2 java sources)
+2026.05.28 20:04:43 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:04:43 WARN  javac exited with exit code 1
+2026.05.28 20:04:43 INFO  time: compiled demo in 2.09s
+2026.05.28 20:04:59 INFO  compiling demo (2 java sources)
+2026.05.28 20:05:02 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:05:02 INFO  time: compiled demo in 2.34s
+2026.05.28 20:05:02 INFO  compiling demo (2 java sources)
+2026.05.28 20:05:04 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:05:04 INFO  time: compiled demo in 2.18s
+May 28, 2026 8:05:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2160
+May 28, 2026 8:06:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2286
+May 28, 2026 8:06:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2376
+May 28, 2026 8:06:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2388
+May 28, 2026 8:06:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2386
+May 28, 2026 8:06:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2433
+May 28, 2026 8:06:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2577
+May 28, 2026 8:07:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2657
+May 28, 2026 8:07:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2659
+May 28, 2026 8:07:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2662
+2026.05.28 20:07:10 INFO  compiling demo (1 java source)
+2026.05.28 20:07:12 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:07:12 INFO  time: compiled demo in 2.22s
+May 28, 2026 8:14:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2752
+May 28, 2026 8:15:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2826
+May 28, 2026 8:15:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2832
+May 28, 2026 8:15:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2831
+2026.05.28 20:15:32 INFO  compiling demo (1 java source)
+2026.05.28 20:15:34 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:15:34 INFO  time: compiled demo in 1.91s
+May 28, 2026 8:15:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2990
+May 28, 2026 8:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3002
+2026.05.28 20:15:54 INFO  compiling demo (1 java source)
+2026.05.28 20:15:57 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:15:57 INFO  time: compiled demo in 2.31s
+May 28, 2026 8:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3031
+May 28, 2026 8:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3033
+May 28, 2026 8:17:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3073
+May 28, 2026 8:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3089
+2026.05.28 20:17:30 INFO  compiling demo (1 java source)
+2026.05.28 20:17:30 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java
+2026.05.28 20:17:32 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:17:32 INFO  time: compiled demo in 2.08s
+2026.05.28 20:18:01 INFO  compiling demo (1 java source)
+2026.05.28 20:18:03 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:18:03 INFO  time: compiled demo in 2.31s
+2026.05.28 20:19:19 INFO  compiling demo (1 java source)
+2026.05.28 20:19:21 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:19:21 INFO  time: compiled demo in 2.37s
+2026.05.28 20:20:05 INFO  compiling demo (1 java source)
+2026.05.28 20:20:07 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:20:07 INFO  time: compiled demo in 2.17s
+May 28, 2026 8:20:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3333
+May 28, 2026 8:20:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3360
+May 28, 2026 8:20:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3364
+May 28, 2026 8:20:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3369
+2026.05.28 20:23:22 INFO  compiling demo (1 java source)
+2026.05.28 20:23:25 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:23:25 INFO  time: compiled demo in 2.2s
+May 28, 2026 8:24:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3476
+May 28, 2026 8:24:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3519
+May 28, 2026 8:24:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3515
+May 28, 2026 8:24:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3524
+May 28, 2026 8:24:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3575
+2026.05.28 20:24:40 INFO  compiling demo (1 java source)
+2026.05.28 20:24:42 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:24:42 INFO  time: compiled demo in 2s
+May 28, 2026 8:24:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3651
+May 28, 2026 8:25:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3659
+2026.05.28 20:26:12 INFO  compiling demo (1 java source)
+2026.05.28 20:26:14 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:26:14 INFO  time: compiled demo in 2.08s
+May 28, 2026 8:26:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3848
+May 28, 2026 8:26:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3851
+May 28, 2026 8:27:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3931
+May 28, 2026 8:27:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3932
+May 28, 2026 8:27:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3935
+May 28, 2026 8:27:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3993
+2026.05.28 20:27:38 INFO  compiling demo (1 java source)
+2026.05.28 20:27:40 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:27:40 INFO  time: compiled demo in 2.12s
+May 28, 2026 8:29:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4105
+May 28, 2026 8:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4142
+May 28, 2026 8:30:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4152
+2026.05.28 20:30:32 INFO  compiling demo (1 java source)
+2026.05.28 20:30:34 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 20:30:34 INFO  Note: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java uses or overrides a deprecated API.
+2026.05.28 20:30:34 INFO  Note: Recompile with -Xlint:deprecation for details.
+2026.05.28 20:30:34 INFO  time: compiled demo in 2.29s
+May 28, 2026 10:23:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4177
+May 28, 2026 10:23:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4179
+May 28, 2026 10:23:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4181
+May 28, 2026 10:23:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4180
+May 28, 2026 10:23:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4186
+May 28, 2026 10:24:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4228
+May 28, 2026 10:24:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4235
+May 28, 2026 10:24:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4237
+May 28, 2026 10:24:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4245
+May 28, 2026 10:24:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4240
+May 28, 2026 10:24:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4281
+May 28, 2026 10:25:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4337
+2026.05.28 22:25:45 INFO  compiling demo (1 java source)
+2026.05.28 22:25:47 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java:74: error: cannot find symbol
+    public JSonNode getEventDetailsByDetails(){
+           ^
+  symbol:   class JSonNode
+  location: class mmaService
+Note: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 error
+1 warning.
+2026.05.28 22:25:47 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 22:25:47 INFO  Note: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java uses or overrides a deprecated API.
+2026.05.28 22:25:47 INFO  Note: Recompile with -Xlint:deprecation for details.
+2026.05.28 22:25:47 WARN  javac exited with exit code 1
+2026.05.28 22:25:47 INFO  time: compiled demo in 2.28s
+May 28, 2026 10:25:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4423
+2026.05.28 22:25:58 INFO  compiling demo (1 java source)
+2026.05.28 22:26:00 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.05.28 22:26:00 INFO  Note: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\mmaService.java uses or overrides a deprecated API.
+2026.05.28 22:26:00 INFO  Note: Recompile with -Xlint:deprecation for details.
+2026.05.28 22:26:00 INFO  time: compiled demo in 2.85s

@@ -1,9 +1,18 @@
-package techskill.demo.Service;
-import java.time.LocalDate;
+error id: file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:_empty_/fighterStat#
+file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java
+empty definition using pc, found symbol in pc: _empty_/fighterStat#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
 
+offset: 2764
+uri: file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java
+text:
+```scala
+package techskill.demo.Service;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
-
+import java.time.LocalDate;
 import tools.jackson.databind.JsonNode;
 
 @Service
@@ -37,8 +46,23 @@ public class chatAiService{
        JsonNode fighterRecord = mmaService.getFighterByName(fighterName);
 
        JsonNode fighterStats = mmaService.getStatsByName(fighterName);
-       JsonNode nextEventDetails = mmaService.getNextEvent();
       
+/* 
+       JsonNode fighterStats = null;
+       try {
+           String rawFighterID = chatClient.prompt()
+           .system("Extract fighter ID from the upcoming events" + nextEvent + "Only return the number, no text e.g(140000628)")
+           .user(userQuestion)
+           .call()
+           .content()
+           .trim();
+           int fighterID = Integer.parseInt(rawFighterID);
+           fighterStats = mmaService.getFighterStats(fighterID);
+       } catch (NumberFormatException e) {
+        System.out.println("Fighter ID doesnt exist or didnt parse correctly");
+       }
+        */
+
 
         String systemPrompt = """
             You are an MMA assistant with access to real, up-to-date fight data.
@@ -47,16 +71,14 @@ public class chatAiService{
 
            
            Rules:
-           
-           -When outputing all the fights, dont display Rounds:x,y.
+           -When outputting all the fights, dont Rounds:x,y.
            -When asked about the upcoming event, give the upcoming event based on the current date, e.g if 
             its 5/26/26, give me next event on that date.
            -If user request fighter data, neatly the stats
-            - When user asks for the next event by details, e.g 'give me all the fights for the next fight', print
-            all the fights in that card;
+
 
             Current MMA event data:
-            """ + eventData.toString() + curDate.toString()  + fighterRecord + fighterStats + nextEventDetails;
+            """ + eventData.toString() + curDate.toString()  + fighterReco@@rd;
 
             return chatClient.prompt()
             .system(systemPrompt)
@@ -67,3 +89,9 @@ public class chatAiService{
 
 
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/fighterStat#

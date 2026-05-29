@@ -23,7 +23,12 @@ public class mmaController{
         }
         @GetMapping("/nextEvent")
         public JsonNode nextEvent(int id){
-            return mmaService.getNextEvent(id);
+            return mmaService.getEventDetails(id);
+        }
+        @GetMapping("/nextEventDetails")
+        public JsonNode nextE(){
+            System.out.println(mmaService.getNextEvent());
+            return mmaService.getNextEvent();
         }
 
 }
