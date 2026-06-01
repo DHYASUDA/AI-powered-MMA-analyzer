@@ -71,9 +71,9 @@ public class mmaService{
         return null;
     }
     //basically get event details by date or by main card event
-    //public JSonNode getEventDetailsByDetails(){
-
-    //}
+   // public JSonNode getEventDetailsByDetails(){
+        
+   // }
     
     
     public JsonNode getStatsByName(String name){
@@ -103,10 +103,4 @@ public class mmaService{
         .body(JsonNode.class);
     }
     
-  
-
-
-
-
-
 }

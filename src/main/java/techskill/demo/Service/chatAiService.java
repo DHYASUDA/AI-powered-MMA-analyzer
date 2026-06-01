@@ -1,5 +1,7 @@
 package techskill.demo.Service;
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
@@ -24,19 +26,42 @@ public class chatAiService{
     public String chat(String userQuestion){
         JsonNode eventData = mmaService.getUpcomingEvents();
         //JsonNode nextEvent = mmaService.getNextEvent(900);
-
+        List<String> fighters = new ArrayList<>();
        //we can extract the name of the fighter in the prompt input
-       String fighterName = chatClient.prompt()
-       .system("Extract the fighter name mentioned in the user input, only output the name and nothing else e.g what is jon jones record, this must output only 'jon jones'")
+       String fighterNamesRaw = chatClient.prompt()
+       .system("""
+                Extract ALL fighter names mentioned in the user input.
+                Output ONLY the names separated by a comma and nothing else.
+                Examples:
+                - "what is jon jones record" → "jon jones"
+                - "who wins israel or joe pyfer" → "israel adesanya,joe pyfer"
+                - "compare adesanya and whittaker" → "israel adesanya,robert whittaker"
+                Do not include punctuation other than the comma separator.
+            """)
        .user(userQuestion)
        .call()
        .content()
        .trim(); 
+    
 
-       System.out.println(fighterName);
-       JsonNode fighterRecord = mmaService.getFighterByName(fighterName);
+       String[] fighterNames = fighterNamesRaw.split(",");
 
-       JsonNode fighterStats = mmaService.getStatsByName(fighterName);
+       StringBuilder fighterDataBuilder = new StringBuilder();
+
+       for (String name : fighterNames) {
+           String trimmedName = name.trim();
+           if (trimmedName.isEmpty()) continue;
+
+           JsonNode record = mmaService.getFighterByName(trimmedName);
+           JsonNode stats  = mmaService.getStatsByName(trimmedName);
+
+           fighterDataBuilder
+               .append("\n--- Fighter: ").append(trimmedName).append(" ---\n")
+               .append("Record: ").append(record != null ? record.toString() : "Not found").append("\n")
+               .append("Stats: ").append(stats  != null ? stats.toString()  : "Not found").append("\n");
+       }
+
+    
        JsonNode nextEventDetails = mmaService.getNextEvent();
       
 
@@ -52,11 +77,13 @@ public class chatAiService{
            -When asked about the upcoming event, give the upcoming event based on the current date, e.g if 
             its 5/26/26, give me next event on that date.
            -If user request fighter data, neatly the stats
-            - When user asks for the next event by details, e.g 'give me all the fights for the next fight', print
+           - When user asks for the next event by details, e.g 'give me all the fights for the next fight', print
             all the fights in that card;
+            - When user asks who you think wins, x or y? get fightert stats for both fighters, and compare both fighters
+            fighting style, figting stats (x fighter lands more signficiant shots, but y lands more takedowns.)
 
             Current MMA event data:
-            """ + eventData.toString() + curDate.toString()  + fighterRecord + fighterStats + nextEventDetails;
+            """ + eventData.toString() + curDate.toString()  + fighterDataBuilder.toString() + nextEventDetails;
 
             return chatClient.prompt()
             .system(systemPrompt)
