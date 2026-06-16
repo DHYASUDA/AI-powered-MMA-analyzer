@@ -60,9 +60,11 @@ public class chatAiService{
                .append("Record: ").append(record != null ? record.toString() : "Not found").append("\n")
                .append("Stats: ").append(stats  != null ? stats.toString()  : "Not found").append("\n");
        }
+       
 
     
        JsonNode nextEventDetails = mmaService.getNextEvent();
+       JsonNode fightOdds = mmaService.getFightOdds();
       
 
         String systemPrompt = """
@@ -81,9 +83,10 @@ public class chatAiService{
             all the fights in that card;
             - When user asks who you think wins, x or y? get fightert stats for both fighters, and compare both fighters
             fighting style, figting stats (x fighter lands more signficiant shots, but y lands more takedowns.)
+            - remove any "**" asteriks in the chat
 
             Current MMA event data:
-            """ + eventData.toString() + curDate.toString()  + fighterDataBuilder.toString() + nextEventDetails;
+            """ + eventData.toString() + curDate.toString()  + fighterDataBuilder.toString() + nextEventDetails + fightOdds;
 
             return chatClient.prompt()
             .system(systemPrompt)
