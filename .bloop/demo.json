@@ -13,14 +13,21 @@
         "classpath": [
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-web\\4.0.6\\979ace917673f8846293e5a8ed2156c89804cb86\\spring-boot-starter-web-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-core\\2.21.2\\7d11eac823392f28d8ee7bda77eaadfccbab83e5\\jackson-core-2.21.2.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-databind\\2.21.2\\71ab8ff75b4fd74afdee0004173fdd15de1d6a28\\jackson-databind-2.21.2.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-starter-model-openai\\2.0.0-M4\\1f5d83d89b8392537277d31adf7619e4edcddcab\\spring-ai-starter-model-openai-2.0.0-M4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-starter-vector-store-pgvector\\2.0.0-M4\\8243c96a631405e9419123b6f6ca4f8c33378e1d\\spring-ai-starter-vector-store-pgvector-2.0.0-M4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-advisors-vector-store\\2.0.0-M4\\e1e65f5d5d451d00c82bfa0866db73d9c7f574c\\spring-ai-advisors-vector-store-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-webclient\\4.0.6\\6751df340b29caa1ab3be16e0797ac4320b0e2e1\\spring-boot-starter-webclient-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-jackson\\4.0.6\\38895733cded8ac4007d7ee028e3bf1f718514f1\\spring-boot-starter-jackson-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat\\4.0.6\\b646e4b063dacdf5079efcfa685c4a8803ff4ac1\\spring-boot-starter-tomcat-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-converter\\4.0.6\\2e880be042b7543e6767d99a8f5777d41e92be93\\spring-boot-http-converter-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-webmvc\\4.0.6\\2a5877540d8f8bd4df5071d1848fc0a30384117b\\spring-boot-webmvc-4.0.6.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-pgvector\\2.0.0-M4\\7372648e557804e923fb480736e043c19344cc20\\spring-ai-autoconfigure-vector-store-pgvector-2.0.0-M4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-pgvector-store\\2.0.0-M4\\eade1753a5ca77d3b558db3ffb9019b2b5b5aa66\\spring-ai-pgvector-store-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-jdbc\\4.0.6\\134232052dcbf089ff52e37aea3ae81c9448c746\\spring-boot-starter-jdbc-4.0.6.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-observation\\2.0.0-M4\\6dce4be4ca78828f8428c1ae643a2270700fe0b\\spring-ai-autoconfigure-vector-store-observation-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-chat-client\\2.0.0-M4\\2eb036a55d65d1e1efde1e4bb6da615647c6ae33\\spring-ai-autoconfigure-model-chat-client-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-chat-memory\\2.0.0-M4\\1ddf418c27e65fae9cf5bc26a9e87c5b895372a2\\spring-ai-autoconfigure-model-chat-memory-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-openai\\2.0.0-M4\\4e52fa171f1d453187e354558439b544715d0ad2\\spring-ai-autoconfigure-model-openai-2.0.0-M4.jar",
@@ -34,13 +41,22 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-hibernate\\4.0.6\\1583369af62ba1e587e6f82c8c95dff5694e63b\\spring-boot-hibernate-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-jpa\\4.0.6\\2298c83f9e4473998fe1c695d42f3fcc161f6eb3\\spring-boot-jpa-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-jdbc\\4.0.6\\fd649f51a6cef57b011167676f67ccfd51901932\\spring-boot-jdbc-4.0.6.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-openai\\2.0.0-M4\\35a450ba15ea263d49aaead4aeeb20cef839f9fa\\spring-ai-openai-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-client-chat\\2.0.0-M4\\9b2fb75c49674565d04b9804656db4ac5bc5e9fc\\spring-ai-client-chat-2.0.0-M4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-vector-store\\2.0.0-M4\\1672d44ba34d491d70799bec7da21099ce6f2258\\spring-ai-vector-store-2.0.0-M4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-openai\\2.0.0-M4\\35a450ba15ea263d49aaead4aeeb20cef839f9fa\\spring-ai-openai-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-model\\2.0.0-M4\\e4549294c34160679788dd16175c40aab78eea2b\\spring-ai-model-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-template-st\\2.0.0-M4\\a6c274a03d26f553f398d784ac15fc352515e781\\spring-ai-template-st-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\cbd500177333d7977a5c7f79cad32d9b6c8791ea\\spring-ai-commons-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-retry\\2.0.0-M4\\2b96eaf8c4f5e2fb2bf93b660b74685824495844\\spring-ai-retry-2.0.0-M4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-jackson\\4.0.6\\506bcf91451a44789dd5d9ef1855d524069140ef\\spring-boot-jackson-4.0.6.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-json-jackson3\\1.1.0\\223a53120fac0ac39f2e5ceefc9c041d2467e9f3\\mcp-json-jackson3-1.1.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-generator\\5.0.0\\c3db83983c3bf81a2ea7da29c9cb35dfe3c87594\\jsonschema-generator-5.0.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.networknt\\json-schema-validator\\3.0.0\\f192fc0d75734f5e49cf97fb619a2a7afe22c620\\json-schema-validator-3.0.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.dataformat\\jackson-dataformat-yaml\\3.1.2\\3d782286464620deeed1f1733a960e7fd4c179df\\jackson-dataformat-yaml-3.1.2.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-core\\3.1.2\\d0da2e67ffb0b7cf5aba0436b315aa3eb3eb37ca\\jackson-core-3.1.2.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-databind\\3.1.2\\2550e04829fc14566ddab7b9564ba886a9c6a532\\jackson-databind-3.1.2.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-core\\1.1.0\\b98d5a8eb5332f511184059e78e61c49514fea1f\\mcp-core-1.1.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-annotations\\2.21\\b1bc1868bf02dc0bd6c7836257a036a331005309\\jackson-annotations-2.21.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat-runtime\\4.0.6\\93cb616795ce25f7fd58ef3d1dcc8c3ed2d82578\\spring-boot-starter-tomcat-runtime-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-tomcat\\4.0.6\\46bcbbdd2bddd2a6932bbdcf9ac2d943a83f0629\\spring-boot-tomcat-4.0.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-servlet\\4.0.6\\8a1d703662d560a7826c61a908f5307e795cb370\\spring-boot-servlet-4.0.6.jar",
@@ -66,12 +82,6 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-aspects\\7.0.7\\e507bc50ddca9ee54c37191f9c96e5f491459d3c\\spring-aspects-7.0.7.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-orm\\7.0.7\\c5f883ce3bf4407a8c86751e3fa3a2fac4482626\\spring-orm-7.0.7.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-jdbc\\7.0.7\\7369c7cc321b649f291c6222e5982d75878845c5\\spring-jdbc-7.0.7.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-generator\\5.0.0\\c3db83983c3bf81a2ea7da29c9cb35dfe3c87594\\jsonschema-generator-5.0.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-json-jackson3\\1.1.0\\223a53120fac0ac39f2e5ceefc9c041d2467e9f3\\mcp-json-jackson3-1.1.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.networknt\\json-schema-validator\\3.0.0\\f192fc0d75734f5e49cf97fb619a2a7afe22c620\\json-schema-validator-3.0.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.dataformat\\jackson-dataformat-yaml\\3.1.2\\3d782286464620deeed1f1733a960e7fd4c179df\\jackson-dataformat-yaml-3.1.2.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-core\\3.1.2\\d0da2e67ffb0b7cf5aba0436b315aa3eb3eb37ca\\jackson-core-3.1.2.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-databind\\3.1.2\\2550e04829fc14566ddab7b9564ba886a9c6a532\\jackson-databind-3.1.2.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-websocket\\11.0.21\\abed2f9a4a8d7e8b8dfe492b1c6e58ea73825db\\tomcat-embed-websocket-11.0.21.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-core\\11.0.21\\6d53989fe9f9416eb1295a9c53c7b6fb8e3c04bb\\tomcat-embed-core-11.0.21.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-el\\11.0.21\\ab5200daf4fac467fa0e73598cdc10de6ce1c139\\tomcat-embed-el-11.0.21.jar",
@@ -89,20 +99,22 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-classic\\1.5.32\\2b1042c50f508f2eb402bd4d22ccbdf94cc37d2e\\logback-classic-1.5.32.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-to-slf4j\\2.25.4\\68df56640a5d245192e91bd2ac89e504b477cc10\\log4j-to-slf4j-2.25.4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\jul-to-slf4j\\2.0.17\\524cb6ccc2b68a57604750e1ab8b13b5a786a6aa\\jul-to-slf4j-2.0.17.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-swagger-2\\5.0.0\\abddfdd7ec7337b483ace47449e7d638582c3242\\jsonschema-module-swagger-2-5.0.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-core\\1.1.0\\b98d5a8eb5332f511184059e78e61c49514fea1f\\mcp-core-1.1.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\2.0.17\\d9e58ac9c7779ba3bf8142aff6c830617a7fe60f\\slf4j-api-2.0.17.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\9e10d41a4cd7fbb045cb978676dffe23a0adf1e0\\hibernate-core-7.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr4-runtime\\4.13.2\\fc3db6d844df652a3d5db31c87fa12757f13691d\\antlr4-runtime-4.13.2.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.aspectj\\aspectjweaver\\1.9.25.1\\a713c790da4d794c7dfb542b550d4e44898d5e23\\aspectjweaver-1.9.25.1.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.swagger.core.v3\\swagger-annotations-jakarta\\2.2.38\\7628340f67c58a7ba9eb965a5b3f8f1d06f9df30\\swagger-annotations-jakarta-2.2.38.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor.netty\\reactor-netty-http\\1.3.5\\dd693f3211b1c92619fabaf88bb4c5dd13a2d57\\reactor-netty-http-1.3.5.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-annotations\\2.21\\b1bc1868bf02dc0bd6c7836257a036a331005309\\jackson-annotations-2.21.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor.netty\\reactor-netty-core\\1.3.5\\9cfa82dfe196206b61e55a053c82ad02af8a1d07\\reactor-netty-core-1.3.5.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor\\reactor-core\\3.8.5\\e3afac59d35d67364b64389e2ed7cd274829df71\\reactor-core-3.8.5.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.knuddels\\jtokkit\\1.1.0\\b7370f801db3eb8c7c6a2c2c06231909ac6de0b0\\jtokkit-1.1.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.pgvector\\pgvector\\0.1.6\\267cf809102e9c56bd35e9a2de5cf8102b613c49\\pgvector-0.1.6.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\35100a3f0899551e27af8fed4a3414619a4663b3\\postgresql-42.7.10.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\commons-logging\\commons-logging\\1.3.6\\63e78ca6cd446c0ad166d14f03ed99e7efb3896d\\commons-logging-1.3.6.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\micrometer-commons\\1.16.5\\f8c25a4e35d5049d41d8446b111b9891ae407881\\micrometer-commons-1.16.5.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.25.4\\89ff2217b193fb187b134aa6ebcbfa8a28b018a9\\log4j-api-2.25.4.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor.netty\\reactor-netty-core\\1.3.5\\9cfa82dfe196206b61e55a053c82ad02af8a1d07\\reactor-netty-core-1.3.5.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor\\reactor-core\\3.8.5\\e3afac59d35d67364b64389e2ed7cd274829df71\\reactor-core-3.8.5.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\context-propagation\\1.2.1\\8951419f78e7bc7e0db246cd9d987d254b014e29\\context-propagation-1.2.1.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.jspecify\\jspecify\\1.0.0\\7425a601c1c7ec76645a78d22b8c6a627edee507\\jspecify-1.0.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-core\\1.5.32\\fdfb3ff9a842303d4a95207294a6c6bc64e2605d\\logback-core-1.5.32.jar",
@@ -112,6 +124,8 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.annotation.versioning\\1.1.2\\dc3cd4ec96c0b3c5459fe00694bd73a816ecf93e\\org.osgi.annotation.versioning-1.1.2.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.persistence\\jakarta.persistence-api\\3.2.0\\bb75a113f3fa191c2c7ee7b206d8e674251b3129\\jakarta.persistence-api-3.2.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.transaction\\jakarta.transaction-api\\2.0.1\\51a520e3fae406abb84e2e1148e6746ce3f80a1a\\jakarta.transaction-api-2.0.1.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.reactivestreams\\reactive-streams\\1.0.4\\3864a1320d97d7b045f729a326e1e077661f31b7\\reactive-streams-1.0.4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml\\classmate\\1.7.3\\f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0\\classmate-1.7.3.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http2\\4.2.12.Final\\383b786cfc2549978390a2881ff3c146cc22bb54\\netty-codec-http2-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\4c1d110b95a00688f288bc93d11acb6dba3466ca\\netty-codec-http3-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-handler-proxy\\4.2.12.Final\\2304d930dcd2c2ba3537318395361944938e3d42\\netty-handler-proxy-4.2.12.Final.jar",
@@ -120,12 +134,10 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver-dns-classes-macos\\4.2.12.Final\\58388fa99f61a3e6874387e10107a809de16f561\\netty-resolver-dns-classes-macos-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver-dns\\4.2.12.Final\\c7eeea93db8a94947732e318423e5c0d8746e6a9\\netty-resolver-dns-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-transport-native-epoll\\4.2.12.Final\\d5e896a5de7e630a79cb3e02fc4de8a6e69ad4cd\\netty-transport-native-epoll-4.2.12.Final-linux-x86_64.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml\\classmate\\1.7.3\\f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0\\classmate-1.7.3.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.swagger.core.v3\\swagger-annotations-jakarta\\2.2.38\\7628340f67c58a7ba9eb965a5b3f8f1d06f9df30\\swagger-annotations-jakarta-2.2.38.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.knuddels\\jtokkit\\1.1.0\\b7370f801db3eb8c7c6a2c2c06231909ac6de0b0\\jtokkit-1.1.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.resource\\1.0.0\\343c88949132984b3f2d4175a72c40b77dc65619\\org.osgi.resource-1.0.0.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.service.serviceloader\\1.0.0\\3728ff37909c6a3c1870b3e851342d9f2bd3cc63\\org.osgi.service.serviceloader-1.0.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.reactivestreams\\reactive-streams\\1.0.4\\3864a1320d97d7b045f729a326e1e077661f31b7\\reactive-streams-1.0.4.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.ethlo.time\\itu\\1.14.0\\c0f9f9d4f4404787e992ab3af5ae95f2fad79e47\\itu-1.14.0.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\ST4\\4.3.4\\bf68d049dd4e6e104055a79ac3bf9e6307d29258\\ST4-4.3.4.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-compression\\4.2.12.Final\\aa0849118167bc727a8dbdaeccc45d56c1f1e8fb\\netty-codec-compression-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-handler\\4.2.12.Final\\1ccb2b1eed54ce049b3ff39fde225014526ab6a0\\netty-handler-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-dns\\4.2.12.Final\\d65d2be0cd872c5bb08378b4090232ea3d50793c\\netty-codec-dns-4.2.12.Final.jar",
@@ -138,10 +150,8 @@
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver\\4.2.12.Final\\c59aa586a12e62d80207a00f9cf18eedf69d1012\\netty-resolver-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-common\\4.2.12.Final\\d35ffb9bf5cc0e05ae7408cf6a682b62dceceafc\\netty-common-4.2.12.Final.jar",
             "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-classes-quic\\4.2.12.Final\\7b393e85c2017ad4f63ac5cc8700babd28934061\\netty-codec-classes-quic-4.2.12.Final.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\ST4\\4.3.4\\bf68d049dd4e6e104055a79ac3bf9e6307d29258\\ST4-4.3.4.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr-runtime\\3.5.3\\9011fb189c5ed6d99e5f3322514848d1ec1e1416\\antlr-runtime-3.5.3.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.ethlo.time\\itu\\1.14.0\\c0f9f9d4f4404787e992ab3af5ae95f2fad79e47\\itu-1.14.0.jar",
-            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.snakeyaml\\snakeyaml-engine\\3.0.1\\aaa97268dd9fcf97a3e44c96e6a50961d65199dd\\snakeyaml-engine-3.0.1.jar"
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.snakeyaml\\snakeyaml-engine\\3.0.1\\aaa97268dd9fcf97a3e44c96e6a50961d65199dd\\snakeyaml-engine-3.0.1.jar",
+            "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr-runtime\\3.5.3\\9011fb189c5ed6d99e5f3322514848d1ec1e1416\\antlr-runtime-3.5.3.jar"
         ],
         "out": "C:\\Users\\david\\techskill\\demo\\.bloop\\demo\\build",
         "classesDir": "C:\\Users\\david\\techskill\\demo\\.bloop\\demo\\build\\classes",
@@ -181,13 +191,21 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-devtools\\4.0.6\\2f45ebafbfc961cf55d4aa4a49bc1637bd6d0d2\\spring-boot-devtools-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-web\\4.0.6\\979ace917673f8846293e5a8ed2156c89804cb86\\spring-boot-starter-web-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-core\\2.21.2\\7d11eac823392f28d8ee7bda77eaadfccbab83e5\\jackson-core-2.21.2.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-databind\\2.21.2\\71ab8ff75b4fd74afdee0004173fdd15de1d6a28\\jackson-databind-2.21.2.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-starter-model-openai\\2.0.0-M4\\1f5d83d89b8392537277d31adf7619e4edcddcab\\spring-ai-starter-model-openai-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-starter-vector-store-pgvector\\2.0.0-M4\\8243c96a631405e9419123b6f6ca4f8c33378e1d\\spring-ai-starter-vector-store-pgvector-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-advisors-vector-store\\2.0.0-M4\\e1e65f5d5d451d00c82bfa0866db73d9c7f574c\\spring-ai-advisors-vector-store-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-pgvector-store\\2.0.0-M4\\eade1753a5ca77d3b558db3ffb9019b2b5b5aa66\\spring-ai-pgvector-store-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.pgvector\\pgvector\\0.1.6\\267cf809102e9c56bd35e9a2de5cf8102b613c49\\pgvector-0.1.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\35100a3f0899551e27af8fed4a3414619a4663b3\\postgresql-42.7.10.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-webclient\\4.0.6\\6751df340b29caa1ab3be16e0797ac4320b0e2e1\\spring-boot-starter-webclient-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-jackson\\4.0.6\\38895733cded8ac4007d7ee028e3bf1f718514f1\\spring-boot-starter-jackson-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat\\4.0.6\\b646e4b063dacdf5079efcfa685c4a8803ff4ac1\\spring-boot-starter-tomcat-4.0.6.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-pgvector\\2.0.0-M4\\7372648e557804e923fb480736e043c19344cc20\\spring-ai-autoconfigure-vector-store-pgvector-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-jdbc\\4.0.6\\134232052dcbf089ff52e37aea3ae81c9448c746\\spring-boot-starter-jdbc-4.0.6.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-observation\\2.0.0-M4\\6dce4be4ca78828f8428c1ae643a2270700fe0b\\spring-ai-autoconfigure-vector-store-observation-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-chat-client\\2.0.0-M4\\2eb036a55d65d1e1efde1e4bb6da615647c6ae33\\spring-ai-autoconfigure-model-chat-client-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-chat-memory\\2.0.0-M4\\1ddf418c27e65fae9cf5bc26a9e87c5b895372a2\\spring-ai-autoconfigure-model-chat-memory-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-openai\\2.0.0-M4\\4e52fa171f1d453187e354558439b544715d0ad2\\spring-ai-autoconfigure-model-openai-2.0.0-M4.jar",
@@ -219,12 +237,21 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-reactor\\4.0.6\\506c4920d9e7db6d6e7fd8bdcc92a533cad57a31\\spring-boot-reactor-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-codec\\4.0.6\\dafce2efbd97d114798d8ce9430f2de3e1954f52\\spring-boot-http-codec-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot\\4.0.6\\5bcc4d77a2ff7d18274f2394b5eea1d658e46305\\spring-boot-4.0.6.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-openai\\2.0.0-M4\\35a450ba15ea263d49aaead4aeeb20cef839f9fa\\spring-ai-openai-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-client-chat\\2.0.0-M4\\9b2fb75c49674565d04b9804656db4ac5bc5e9fc\\spring-ai-client-chat-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-vector-store\\2.0.0-M4\\1672d44ba34d491d70799bec7da21099ce6f2258\\spring-ai-vector-store-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-openai\\2.0.0-M4\\35a450ba15ea263d49aaead4aeeb20cef839f9fa\\spring-ai-openai-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-model\\2.0.0-M4\\e4549294c34160679788dd16175c40aab78eea2b\\spring-ai-model-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-template-st\\2.0.0-M4\\a6c274a03d26f553f398d784ac15fc352515e781\\spring-ai-template-st-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\cbd500177333d7977a5c7f79cad32d9b6c8791ea\\spring-ai-commons-2.0.0-M4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-retry\\2.0.0-M4\\2b96eaf8c4f5e2fb2bf93b660b74685824495844\\spring-ai-retry-2.0.0-M4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-json-jackson3\\1.1.0\\223a53120fac0ac39f2e5ceefc9c041d2467e9f3\\mcp-json-jackson3-1.1.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-generator\\5.0.0\\c3db83983c3bf81a2ea7da29c9cb35dfe3c87594\\jsonschema-generator-5.0.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.networknt\\json-schema-validator\\3.0.0\\f192fc0d75734f5e49cf97fb619a2a7afe22c620\\json-schema-validator-3.0.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.dataformat\\jackson-dataformat-yaml\\3.1.2\\3d782286464620deeed1f1733a960e7fd4c179df\\jackson-dataformat-yaml-3.1.2.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-core\\3.1.2\\d0da2e67ffb0b7cf5aba0436b315aa3eb3eb37ca\\jackson-core-3.1.2.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-databind\\3.1.2\\2550e04829fc14566ddab7b9564ba886a9c6a532\\jackson-databind-3.1.2.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-core\\1.1.0\\b98d5a8eb5332f511184059e78e61c49514fea1f\\mcp-core-1.1.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-annotations\\2.21\\b1bc1868bf02dc0bd6c7836257a036a331005309\\jackson-annotations-2.21.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.checkerframework\\checker-qual\\3.52.0\\9c17f496846ab1fca8975c6a50ceac0b3bbe63f0\\checker-qual-3.52.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-webmvc\\7.0.7\\5d7758ed288cda1eacae4b96defb9eed3a7e561d\\spring-webmvc-7.0.7.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.data\\spring-data-jpa\\4.0.5\\fbb375863a4deb4df21b803756b97b767e18559a\\spring-data-jpa-4.0.5.jar",
@@ -250,31 +277,25 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\micrometer-core\\1.16.5\\eed1add84bba09a75ac35733cb0ed6bf5a1d3cb7\\micrometer-core-1.16.5.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\micrometer-observation\\1.16.5\\9dff48a7a9dd84d9083e30a36855bb21a7d6836e\\micrometer-observation-1.16.5.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor.netty\\reactor-netty-http\\1.3.5\\dd693f3211b1c92619fabaf88bb4c5dd13a2d57\\reactor-netty-http-1.3.5.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\micrometer-commons\\1.16.5\\f8c25a4e35d5049d41d8446b111b9891ae407881\\micrometer-commons-1.16.5.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor.netty\\reactor-netty-core\\1.3.5\\9cfa82dfe196206b61e55a053c82ad02af8a1d07\\reactor-netty-core-1.3.5.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-json-jackson3\\1.1.0\\223a53120fac0ac39f2e5ceefc9c041d2467e9f3\\mcp-json-jackson3-1.1.0.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.modelcontextprotocol.sdk\\mcp-core\\1.1.0\\b98d5a8eb5332f511184059e78e61c49514fea1f\\mcp-core-1.1.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.projectreactor\\reactor-core\\3.8.5\\e3afac59d35d67364b64389e2ed7cd274829df71\\reactor-core-3.8.5.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\micrometer-commons\\1.16.5\\f8c25a4e35d5049d41d8446b111b9891ae407881\\micrometer-commons-1.16.5.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.micrometer\\context-propagation\\1.2.1\\8951419f78e7bc7e0db246cd9d987d254b014e29\\context-propagation-1.2.1.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.jspecify\\jspecify\\1.0.0\\7425a601c1c7ec76645a78d22b8c6a627edee507\\jspecify-1.0.0.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-generator\\5.0.0\\c3db83983c3bf81a2ea7da29c9cb35dfe3c87594\\jsonschema-generator-5.0.0.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.networknt\\json-schema-validator\\3.0.0\\f192fc0d75734f5e49cf97fb619a2a7afe22c620\\json-schema-validator-3.0.0.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.dataformat\\jackson-dataformat-yaml\\3.1.2\\3d782286464620deeed1f1733a960e7fd4c179df\\jackson-dataformat-yaml-3.1.2.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-core\\3.1.2\\d0da2e67ffb0b7cf5aba0436b315aa3eb3eb37ca\\jackson-core-3.1.2.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\tools.jackson.core\\jackson-databind\\3.1.2\\2550e04829fc14566ddab7b9564ba886a9c6a532\\jackson-databind-3.1.2.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-websocket\\11.0.21\\abed2f9a4a8d7e8b8dfe492b1c6e58ea73825db\\tomcat-embed-websocket-11.0.21.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-core\\11.0.21\\6d53989fe9f9416eb1295a9c53c7b6fb8e3c04bb\\tomcat-embed-core-11.0.21.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-el\\11.0.21\\ab5200daf4fac467fa0e73598cdc10de6ce1c139\\tomcat-embed-el-11.0.21.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-classic\\1.5.32\\2b1042c50f508f2eb402bd4d22ccbdf94cc37d2e\\logback-classic-1.5.32.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-to-slf4j\\2.25.4\\68df56640a5d245192e91bd2ac89e504b477cc10\\log4j-to-slf4j-2.25.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\jul-to-slf4j\\2.0.17\\524cb6ccc2b68a57604750e1ab8b13b5a786a6aa\\jul-to-slf4j-2.0.17.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-swagger-2\\5.0.0\\abddfdd7ec7337b483ace47449e7d638582c3242\\jsonschema-module-swagger-2-5.0.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\2.0.17\\d9e58ac9c7779ba3bf8142aff6c830617a7fe60f\\slf4j-api-2.0.17.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\9e10d41a4cd7fbb045cb978676dffe23a0adf1e0\\hibernate-core-7.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr4-runtime\\4.13.2\\fc3db6d844df652a3d5db31c87fa12757f13691d\\antlr4-runtime-4.13.2.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.aspectj\\aspectjweaver\\1.9.25.1\\a713c790da4d794c7dfb542b550d4e44898d5e23\\aspectjweaver-1.9.25.1.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-annotations\\2.21\\b1bc1868bf02dc0bd6c7836257a036a331005309\\jackson-annotations-2.21.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.swagger.core.v3\\swagger-annotations-jakarta\\2.2.38\\7628340f67c58a7ba9eb965a5b3f8f1d06f9df30\\swagger-annotations-jakarta-2.2.38.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.knuddels\\jtokkit\\1.1.0\\b7370f801db3eb8c7c6a2c2c06231909ac6de0b0\\jtokkit-1.1.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-core\\1.5.32\\fdfb3ff9a842303d4a95207294a6c6bc64e2605d\\logback-core-1.5.32.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.25.4\\89ff2217b193fb187b134aa6ebcbfa8a28b018a9\\log4j-api-2.25.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.persistence\\jakarta.persistence-api\\3.2.0\\bb75a113f3fa191c2c7ee7b206d8e674251b3129\\jakarta.persistence-api-3.2.0.jar",
@@ -287,6 +308,7 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\jaxb-core\\4.0.6\\8e61282303777fc98a00cc3affd0560d68748a75\\jaxb-core-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.xml.bind\\jakarta.xml.bind-api\\4.0.4\\d6d2327f3817d9a33a3b6b8f2e15a96bc2e7afdc\\jakarta.xml.bind-api-4.0.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.inject\\jakarta.inject-api\\2.0.1\\4c28afe1991a941d7702fe1362c365f0a8641d1e\\jakarta.inject-api-2.0.1.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.reactivestreams\\reactive-streams\\1.0.4\\3864a1320d97d7b045f729a326e1e077661f31b7\\reactive-streams-1.0.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http2\\4.2.12.Final\\383b786cfc2549978390a2881ff3c146cc22bb54\\netty-codec-http2-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\4c1d110b95a00688f288bc93d11acb6dba3466ca\\netty-codec-http3-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-handler-proxy\\4.2.12.Final\\2304d930dcd2c2ba3537318395361944938e3d42\\netty-handler-proxy-4.2.12.Final.jar",
@@ -295,11 +317,10 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver-dns-classes-macos\\4.2.12.Final\\58388fa99f61a3e6874387e10107a809de16f561\\netty-resolver-dns-classes-macos-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver-dns\\4.2.12.Final\\c7eeea93db8a94947732e318423e5c0d8746e6a9\\netty-resolver-dns-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-transport-native-epoll\\4.2.12.Final\\d5e896a5de7e630a79cb3e02fc4de8a6e69ad4cd\\netty-transport-native-epoll-4.2.12.Final-linux-x86_64.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.swagger.core.v3\\swagger-annotations-jakarta\\2.2.38\\7628340f67c58a7ba9eb965a5b3f8f1d06f9df30\\swagger-annotations-jakarta-2.2.38.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.knuddels\\jtokkit\\1.1.0\\b7370f801db3eb8c7c6a2c2c06231909ac6de0b0\\jtokkit-1.1.0.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.eclipse.angus\\angus-activation\\2.0.3\\7f80607ea5014fef0b1779e6c33d63a88a45a563\\angus-activation-2.0.3.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\jakarta.activation\\jakarta.activation-api\\2.1.4\\9e5c2a0d75dde71a0bedc4dbdbe47b78a5dc50f8\\jakarta.activation-api-2.1.4.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.reactivestreams\\reactive-streams\\1.0.4\\3864a1320d97d7b045f729a326e1e077661f31b7\\reactive-streams-1.0.4.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.ethlo.time\\itu\\1.14.0\\c0f9f9d4f4404787e992ab3af5ae95f2fad79e47\\itu-1.14.0.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\ST4\\4.3.4\\bf68d049dd4e6e104055a79ac3bf9e6307d29258\\ST4-4.3.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-compression\\4.2.12.Final\\aa0849118167bc727a8dbdaeccc45d56c1f1e8fb\\netty-codec-compression-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\632cc4feab6a0583e5a879e05c59acb4bef5d8b0\\netty-codec-native-quic-4.2.12.Final-linux-x86_64.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\37988fd1ec666656915fd418aded37a01bc65941\\netty-codec-native-quic-4.2.12.Final-linux-aarch_64.jar",
@@ -317,14 +338,12 @@
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-buffer\\4.2.12.Final\\a1b3a6a4ebaf546860eb119d4e462cd300976ae3\\netty-buffer-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver\\4.2.12.Final\\c59aa586a12e62d80207a00f9cf18eedf69d1012\\netty-resolver-4.2.12.Final.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-common\\4.2.12.Final\\d35ffb9bf5cc0e05ae7408cf6a682b62dceceafc\\netty-common-4.2.12.Final.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\ST4\\4.3.4\\bf68d049dd4e6e104055a79ac3bf9e6307d29258\\ST4-4.3.4.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\txw2\\4.0.6\\4f4cd53b5ff9a2c5aa1211f15ed2569c57dfb044\\txw2-4.0.6.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.sun.istack\\istack-commons-runtime\\4.1.2\\18ec117c85f3ba0ac65409136afa8e42bc74e739\\istack-commons-runtime-4.1.2.jar",
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.snakeyaml\\snakeyaml-engine\\3.0.1\\aaa97268dd9fcf97a3e44c96e6a50961d65199dd\\snakeyaml-engine-3.0.1.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hdrhistogram\\HdrHistogram\\2.2.2\\7959933ebcc0f05b2eaa5af0a0c8689fa257b15c\\HdrHistogram-2.2.2.jar",
                 "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.latencyutils\\LatencyUtils\\2.0.3\\769c0b82cb2421c8256300e907298a9410a2a3d3\\LatencyUtils-2.0.3.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr-runtime\\3.5.3\\9011fb189c5ed6d99e5f3322514848d1ec1e1416\\antlr-runtime-3.5.3.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.ethlo.time\\itu\\1.14.0\\c0f9f9d4f4404787e992ab3af5ae95f2fad79e47\\itu-1.14.0.jar",
-                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.snakeyaml\\snakeyaml-engine\\3.0.1\\aaa97268dd9fcf97a3e44c96e6a50961d65199dd\\snakeyaml-engine-3.0.1.jar"
+                "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr-runtime\\3.5.3\\9011fb189c5ed6d99e5f3322514848d1ec1e1416\\antlr-runtime-3.5.3.jar"
             ]
         },
         "resolution": {
@@ -454,6 +473,17 @@
                         {
                             "name": "assertj-core",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.assertj\\assertj-core\\3.27.7\\2f4f64f054c9d618d4b1d89e7611559f5e2cfff7\\assertj-core-3.27.7.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-starter-vector-store-pgvector",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-starter-vector-store-pgvector",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-starter-vector-store-pgvector\\2.0.0-M4\\8243c96a631405e9419123b6f6ca4f8c33378e1d\\spring-ai-starter-vector-store-pgvector-2.0.0-M4.jar"
                         }
                     ]
                 },
@@ -762,18 +792,18 @@
                     ]
                 },
                 {
-                    "organization": "io.netty",
-                    "name": "netty-codec-native-quic",
-                    "version": "4.2.12.Final",
+                    "organization": "net.minidev",
+                    "name": "accessors-smart",
+                    "version": "2.6.0",
                     "artifacts": [
                         {
-                            "name": "netty-codec-native-quic",
+                            "name": "accessors-smart",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\7e8a070c40196bc639dc9a6c715aacc464e8082e\\netty-codec-native-quic-4.2.12.Final-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\net.minidev\\accessors-smart\\2.6.0\\5cbfec9876f4e152bed21769d3e4e527f3b9338\\accessors-smart-2.6.0-sources.jar"
                         },
                         {
-                            "name": "netty-codec-native-quic",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\e794e36f597a26879225ed839c2ee4687a1f21b7\\netty-codec-native-quic-4.2.12.Final-windows-x86_64.jar"
+                            "name": "accessors-smart",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\net.minidev\\accessors-smart\\2.6.0\\2d96f1d9b6ab7f13261aa81b15703574185747a0\\accessors-smart-2.6.0.jar"
                         }
                     ]
                 },
@@ -794,18 +824,18 @@
                     ]
                 },
                 {
-                    "organization": "net.minidev",
-                    "name": "accessors-smart",
-                    "version": "2.6.0",
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.12.Final",
                     "artifacts": [
                         {
-                            "name": "accessors-smart",
+                            "name": "netty-codec-native-quic",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\net.minidev\\accessors-smart\\2.6.0\\5cbfec9876f4e152bed21769d3e4e527f3b9338\\accessors-smart-2.6.0-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\7e8a070c40196bc639dc9a6c715aacc464e8082e\\netty-codec-native-quic-4.2.12.Final-sources.jar"
                         },
                         {
-                            "name": "accessors-smart",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\net.minidev\\accessors-smart\\2.6.0\\2d96f1d9b6ab7f13261aa81b15703574185747a0\\accessors-smart-2.6.0.jar"
+                            "name": "netty-codec-native-quic",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-native-quic\\4.2.12.Final\\e794e36f597a26879225ed839c2ee4687a1f21b7\\netty-codec-native-quic-4.2.12.Final-windows-x86_64.jar"
                         }
                     ]
                 },
@@ -922,34 +952,18 @@
                     ]
                 },
                 {
-                    "organization": "com.github.victools",
-                    "name": "jsonschema-module-jackson",
-                    "version": "5.0.0",
+                    "organization": "com.fasterxml.jackson.core",
+                    "name": "jackson-core",
+                    "version": "2.21.2",
                     "artifacts": [
                         {
-                            "name": "jsonschema-module-jackson",
+                            "name": "jackson-core",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\9cac3e28519c8d1dd78728c133d511585e2e600\\jsonschema-module-jackson-5.0.0-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-core\\2.21.2\\a6afc648b6ae14306ce3e7265c3730d625e68eb6\\jackson-core-2.21.2-sources.jar"
                         },
                         {
-                            "name": "jsonschema-module-jackson",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter",
-                    "version": "4.0.6",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-starter",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter\\4.0.6\\589f058443a5ca53cf38253fa05aa69dd0e87e0e\\spring-boot-starter-4.0.6.jar"
-                        },
-                        {
-                            "name": "spring-boot-starter",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter\\4.0.6\\589f058443a5ca53cf38253fa05aa69dd0e87e0e\\spring-boot-starter-4.0.6-sources.jar"
+                            "name": "jackson-core",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-core\\2.21.2\\7d11eac823392f28d8ee7bda77eaadfccbab83e5\\jackson-core-2.21.2.jar"
                         }
                     ]
                 },
@@ -970,18 +984,50 @@
                     ]
                 },
                 {
-                    "organization": "org.glassfish.jaxb",
-                    "name": "jaxb-runtime",
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter",
                     "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "jaxb-runtime",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\jaxb-runtime\\4.0.6\\f069377e7a22e397b064ba4d018f118906f79497\\jaxb-runtime-4.0.6-sources.jar"
+                            "name": "spring-boot-starter",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter\\4.0.6\\589f058443a5ca53cf38253fa05aa69dd0e87e0e\\spring-boot-starter-4.0.6.jar"
                         },
                         {
-                            "name": "jaxb-runtime",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\jaxb-runtime\\4.0.6\\fb95ebb62564657b2fedfe165b859789ef3a8711\\jaxb-runtime-4.0.6.jar"
+                            "name": "spring-boot-starter",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter\\4.0.6\\589f058443a5ca53cf38253fa05aa69dd0e87e0e\\spring-boot-starter-4.0.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.github.victools",
+                    "name": "jsonschema-module-jackson",
+                    "version": "5.0.0",
+                    "artifacts": [
+                        {
+                            "name": "jsonschema-module-jackson",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\9cac3e28519c8d1dd78728c133d511585e2e600\\jsonschema-module-jackson-5.0.0-sources.jar"
+                        },
+                        {
+                            "name": "jsonschema-module-jackson",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-jackson\\5.0.0\\e378b5df91e566552e36a96990728a45e780b8ee\\jsonschema-module-jackson-5.0.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.postgresql",
+                    "name": "postgresql",
+                    "version": "42.7.10",
+                    "artifacts": [
+                        {
+                            "name": "postgresql",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\1211d87e46cd7300d366b7bac0ef2a5b2b7718a3\\postgresql-42.7.10-sources.jar"
+                        },
+                        {
+                            "name": "postgresql",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\35100a3f0899551e27af8fed4a3414619a4663b3\\postgresql-42.7.10.jar"
                         }
                     ]
                 },
@@ -1018,18 +1064,18 @@
                     ]
                 },
                 {
-                    "organization": "org.postgresql",
-                    "name": "postgresql",
-                    "version": "42.7.10",
+                    "organization": "org.glassfish.jaxb",
+                    "name": "jaxb-runtime",
+                    "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "postgresql",
+                            "name": "jaxb-runtime",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\1211d87e46cd7300d366b7bac0ef2a5b2b7718a3\\postgresql-42.7.10-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\jaxb-runtime\\4.0.6\\f069377e7a22e397b064ba4d018f118906f79497\\jaxb-runtime-4.0.6-sources.jar"
                         },
                         {
-                            "name": "postgresql",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.postgresql\\postgresql\\42.7.10\\35100a3f0899551e27af8fed4a3414619a4663b3\\postgresql-42.7.10.jar"
+                            "name": "jaxb-runtime",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.glassfish.jaxb\\jaxb-runtime\\4.0.6\\fb95ebb62564657b2fedfe165b859789ef3a8711\\jaxb-runtime-4.0.6.jar"
                         }
                     ]
                 },
@@ -1285,22 +1331,6 @@
                     ]
                 },
                 {
-                    "organization": "io.netty",
-                    "name": "netty-codec-dns",
-                    "version": "4.2.12.Final",
-                    "artifacts": [
-                        {
-                            "name": "netty-codec-dns",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-dns\\4.2.12.Final\\d65d2be0cd872c5bb08378b4090232ea3d50793c\\netty-codec-dns-4.2.12.Final.jar"
-                        },
-                        {
-                            "name": "netty-codec-dns",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-dns\\4.2.12.Final\\51f720a62a3f8e5887a0f7025160b9cd6477e673\\netty-codec-dns-4.2.12.Final-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "net.minidev",
                     "name": "json-smart",
                     "version": "2.6.0",
@@ -1313,6 +1343,22 @@
                             "name": "json-smart",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\net.minidev\\json-smart\\2.6.0\\75b3757e82a64681edcbd3a252da318d68831b0e\\json-smart-2.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-dns",
+                    "version": "4.2.12.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-dns",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-dns\\4.2.12.Final\\d65d2be0cd872c5bb08378b4090232ea3d50793c\\netty-codec-dns-4.2.12.Final.jar"
+                        },
+                        {
+                            "name": "netty-codec-dns",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-dns\\4.2.12.Final\\51f720a62a3f8e5887a0f7025160b9cd6477e673\\netty-codec-dns-4.2.12.Final-sources.jar"
                         }
                     ]
                 },
@@ -1537,6 +1583,22 @@
                         {
                             "name": "spring-web",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\7.0.7\\8c6ba7dd1ef6a3d9246b08885185806426daa7ec\\spring-web-7.0.7.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.pgvector",
+                    "name": "pgvector",
+                    "version": "0.1.6",
+                    "artifacts": [
+                        {
+                            "name": "pgvector",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.pgvector\\pgvector\\0.1.6\\e1cc19a6c517d7fbfd0250f3a728aec73f8f7485\\pgvector-0.1.6-sources.jar"
+                        },
+                        {
+                            "name": "pgvector",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.pgvector\\pgvector\\0.1.6\\267cf809102e9c56bd35e9a2de5cf8102b613c49\\pgvector-0.1.6.jar"
                         }
                     ]
                 },
@@ -1797,6 +1859,22 @@
                     ]
                 },
                 {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-vector-store",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-vector-store",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-vector-store\\2.0.0-M4\\1672d44ba34d491d70799bec7da21099ce6f2258\\spring-ai-vector-store-2.0.0-M4.jar"
+                        },
+                        {
+                            "name": "spring-ai-vector-store",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-vector-store\\2.0.0-M4\\b4edff3b4658da3c7a8f11e4e088631a14e6fc1c\\spring-ai-vector-store-2.0.0-M4-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.springframework",
                     "name": "spring-context-support",
                     "version": "7.0.7",
@@ -1925,22 +2003,6 @@
                     ]
                 },
                 {
-                    "organization": "org.latencyutils",
-                    "name": "LatencyUtils",
-                    "version": "2.0.3",
-                    "artifacts": [
-                        {
-                            "name": "LatencyUtils",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.latencyutils\\LatencyUtils\\2.0.3\\769c0b82cb2421c8256300e907298a9410a2a3d3\\LatencyUtils-2.0.3.jar"
-                        },
-                        {
-                            "name": "LatencyUtils",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.latencyutils\\LatencyUtils\\2.0.3\\fbc38259e2077a428984637d811dac542a6a913e\\LatencyUtils-2.0.3-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "io.netty",
                     "name": "netty-resolver-dns-native-macos",
                     "version": "4.2.12.Final",
@@ -1953,6 +2015,22 @@
                             "name": "netty-resolver-dns-native-macos",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-resolver-dns-native-macos\\4.2.12.Final\\b78ba72eb5f9d9acecb17ce21b07453f9ab2239b\\netty-resolver-dns-native-macos-4.2.12.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.latencyutils",
+                    "name": "LatencyUtils",
+                    "version": "2.0.3",
+                    "artifacts": [
+                        {
+                            "name": "LatencyUtils",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.latencyutils\\LatencyUtils\\2.0.3\\769c0b82cb2421c8256300e907298a9410a2a3d3\\LatencyUtils-2.0.3.jar"
+                        },
+                        {
+                            "name": "LatencyUtils",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.latencyutils\\LatencyUtils\\2.0.3\\fbc38259e2077a428984637d811dac542a6a913e\\LatencyUtils-2.0.3-sources.jar"
                         }
                     ]
                 },
@@ -2069,6 +2147,38 @@
                     ]
                 },
                 {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-pgvector-store",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-pgvector-store",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-pgvector-store\\2.0.0-M4\\eade1753a5ca77d3b558db3ffb9019b2b5b5aa66\\spring-ai-pgvector-store-2.0.0-M4.jar"
+                        },
+                        {
+                            "name": "spring-ai-pgvector-store",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-pgvector-store\\2.0.0-M4\\cb640cd2d81faee9d6efe6eb70398d311cd8bae9\\spring-ai-pgvector-store-2.0.0-M4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.fasterxml.jackson.core",
+                    "name": "jackson-databind",
+                    "version": "2.21.2",
+                    "artifacts": [
+                        {
+                            "name": "jackson-databind",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-databind\\2.21.2\\71ab8ff75b4fd74afdee0004173fdd15de1d6a28\\jackson-databind-2.21.2.jar"
+                        },
+                        {
+                            "name": "jackson-databind",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.fasterxml.jackson.core\\jackson-databind\\2.21.2\\f961dcbcac08d3472f6f26d9ff0f1bde2868e1b8\\jackson-databind-2.21.2-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.springframework.boot",
                     "name": "spring-boot-reactor",
                     "version": "4.0.6",
@@ -2085,22 +2195,6 @@
                     ]
                 },
                 {
-                    "organization": "biz.aQute.bnd",
-                    "name": "biz.aQute.bnd.annotation",
-                    "version": "7.1.0",
-                    "artifacts": [
-                        {
-                            "name": "biz.aQute.bnd.annotation",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\biz.aQute.bnd\\biz.aQute.bnd.annotation\\7.1.0\\b8a7ac832557135627337fbef68c0fb6b2a306f9\\biz.aQute.bnd.annotation-7.1.0-sources.jar"
-                        },
-                        {
-                            "name": "biz.aQute.bnd.annotation",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\biz.aQute.bnd\\biz.aQute.bnd.annotation\\7.1.0\\2f2be18c936d08cf46ea6cfa0043f34afdf38705\\biz.aQute.bnd.annotation-7.1.0.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.junit.jupiter",
                     "name": "junit-jupiter",
                     "version": "6.0.3",
@@ -2113,6 +2207,22 @@
                             "name": "junit-jupiter",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.jupiter\\junit-jupiter\\6.0.3\\fb559da6cf7a1f9d251462a24fcb14856debea38\\junit-jupiter-6.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "biz.aQute.bnd",
+                    "name": "biz.aQute.bnd.annotation",
+                    "version": "7.1.0",
+                    "artifacts": [
+                        {
+                            "name": "biz.aQute.bnd.annotation",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\biz.aQute.bnd\\biz.aQute.bnd.annotation\\7.1.0\\b8a7ac832557135627337fbef68c0fb6b2a306f9\\biz.aQute.bnd.annotation-7.1.0-sources.jar"
+                        },
+                        {
+                            "name": "biz.aQute.bnd.annotation",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\biz.aQute.bnd\\biz.aQute.bnd.annotation\\7.1.0\\2f2be18c936d08cf46ea6cfa0043f34afdf38705\\biz.aQute.bnd.annotation-7.1.0.jar"
                         }
                     ]
                 },
@@ -2181,22 +2291,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-http-codec",
-                    "version": "4.0.6",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-http-codec",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-codec\\4.0.6\\4fd8c8039cc7da03bed7cdf8534310a14af9be05\\spring-boot-http-codec-4.0.6-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-http-codec",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-codec\\4.0.6\\dafce2efbd97d114798d8ce9430f2de3e1954f52\\spring-boot-http-codec-4.0.6.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "io.netty",
                     "name": "netty-codec-native-quic",
                     "version": "4.2.12.Final",
@@ -2225,6 +2319,22 @@
                         {
                             "name": "spring-orm",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-orm\\7.0.7\\c5f883ce3bf4407a8c86751e3fa3a2fac4482626\\spring-orm-7.0.7.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-http-codec",
+                    "version": "4.0.6",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-http-codec",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-codec\\4.0.6\\4fd8c8039cc7da03bed7cdf8534310a14af9be05\\spring-boot-http-codec-4.0.6-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-http-codec",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-http-codec\\4.0.6\\dafce2efbd97d114798d8ce9430f2de3e1954f52\\spring-boot-http-codec-4.0.6.jar"
                         }
                     ]
                 },
@@ -2261,22 +2371,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.ai",
-                    "name": "spring-ai-commons",
-                    "version": "2.0.0-M4",
-                    "artifacts": [
-                        {
-                            "name": "spring-ai-commons",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\9abb5b520656e5817a98220bcd973dd055febddc\\spring-ai-commons-2.0.0-M4-sources.jar"
-                        },
-                        {
-                            "name": "spring-ai-commons",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\cbd500177333d7977a5c7f79cad32d9b6c8791ea\\spring-ai-commons-2.0.0-M4.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.antlr",
                     "name": "antlr-runtime",
                     "version": "3.5.3",
@@ -2289,6 +2383,22 @@
                             "name": "antlr-runtime",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.antlr\\antlr-runtime\\3.5.3\\5dec145eac1c84b12e5aa1fc5444e5c02bcee16f\\antlr-runtime-3.5.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-commons",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-commons",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\9abb5b520656e5817a98220bcd973dd055febddc\\spring-ai-commons-2.0.0-M4-sources.jar"
+                        },
+                        {
+                            "name": "spring-ai-commons",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-commons\\2.0.0-M4\\cbd500177333d7977a5c7f79cad32d9b6c8791ea\\spring-ai-commons-2.0.0-M4.jar"
                         }
                     ]
                 },
@@ -2449,6 +2559,22 @@
                             "name": "spring-ai-client-chat",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-client-chat\\2.0.0-M4\\f460ba879c3660ff0051bd8fd2b0266ff1d11fc9\\spring-ai-client-chat-2.0.0-M4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-advisors-vector-store",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-advisors-vector-store",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-advisors-vector-store\\2.0.0-M4\\ead707c74925f7a7c6ec41df6800f9ae2a634d22\\spring-ai-advisors-vector-store-2.0.0-M4-sources.jar"
+                        },
+                        {
+                            "name": "spring-ai-advisors-vector-store",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-advisors-vector-store\\2.0.0-M4\\e1e65f5d5d451d00c82bfa0866db73d9c7f574c\\spring-ai-advisors-vector-store-2.0.0-M4.jar"
                         }
                     ]
                 },
@@ -2645,6 +2771,22 @@
                     ]
                 },
                 {
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-autoconfigure-vector-store-observation",
+                    "version": "2.0.0-M4",
+                    "artifacts": [
+                        {
+                            "name": "spring-ai-autoconfigure-vector-store-observation",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-observation\\2.0.0-M4\\daaff3edb8eb3b1e08edc7ae01a6e2f8022c8152\\spring-ai-autoconfigure-vector-store-observation-2.0.0-M4-sources.jar"
+                        },
+                        {
+                            "name": "spring-ai-autoconfigure-vector-store-observation",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-observation\\2.0.0-M4\\6dce4be4ca78828f8428c1ae643a2270700fe0b\\spring-ai-autoconfigure-vector-store-observation-2.0.0-M4.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "io.netty",
                     "name": "netty-codec-compression",
                     "version": "4.2.12.Final",
@@ -2657,6 +2799,22 @@
                             "name": "netty-codec-compression",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-compression\\4.2.12.Final\\a2bf439c8678e8f9fcf552ee6cd1dd562b70af5d\\netty-codec-compression-4.2.12.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-transaction",
+                    "version": "4.0.6",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-transaction",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-transaction\\4.0.6\\b45989438e4f7fda63f13b668f2ba072342e4311\\spring-boot-transaction-4.0.6-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-transaction",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-transaction\\4.0.6\\c7ebf15df555b5e8895e936609b1afa0ba2c1264\\spring-boot-transaction-4.0.6.jar"
                         }
                     ]
                 },
@@ -2678,17 +2836,17 @@
                 },
                 {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-transaction",
+                    "name": "spring-boot-starter-data-jpa",
                     "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "spring-boot-transaction",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-transaction\\4.0.6\\b45989438e4f7fda63f13b668f2ba072342e4311\\spring-boot-transaction-4.0.6-sources.jar"
+                            "name": "spring-boot-starter-data-jpa",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6.jar"
                         },
                         {
-                            "name": "spring-boot-transaction",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-transaction\\4.0.6\\c7ebf15df555b5e8895e936609b1afa0ba2c1264\\spring-boot-transaction-4.0.6.jar"
+                            "name": "spring-boot-starter-data-jpa",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6-sources.jar"
                         }
                     ]
                 },
@@ -2710,33 +2868,49 @@
                 },
                 {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-data-jpa",
+                    "name": "spring-boot-devtools",
                     "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-data-jpa",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6.jar"
+                            "name": "spring-boot-devtools",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-devtools\\4.0.6\\43f635242f511c43de7ca6bee2cfbd0e2c869cf6\\spring-boot-devtools-4.0.6-sources.jar"
                         },
                         {
-                            "name": "spring-boot-starter-data-jpa",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-data-jpa\\4.0.6\\7ae183d29edb5b8583685ea71021105eafc99ad9\\spring-boot-starter-data-jpa-4.0.6-sources.jar"
+                            "name": "spring-boot-devtools",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-devtools\\4.0.6\\2f45ebafbfc961cf55d4aa4a49bc1637bd6d0d2\\spring-boot-devtools-4.0.6.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-test",
+                    "name": "spring-boot-starter-restclient",
                     "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-test",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-test\\4.0.6\\45552b94787c926ec41e1e20d6836a6c4d307e98\\spring-boot-starter-test-4.0.6.jar"
+                            "name": "spring-boot-starter-restclient",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6.jar"
                         },
                         {
-                            "name": "spring-boot-starter-test",
+                            "name": "spring-boot-starter-restclient",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-test\\4.0.6\\45552b94787c926ec41e1e20d6836a6c4d307e98\\spring-boot-starter-test-4.0.6-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-http3",
+                    "version": "4.2.12.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-http3",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\4c1d110b95a00688f288bc93d11acb6dba3466ca\\netty-codec-http3-4.2.12.Final.jar"
+                        },
+                        {
+                            "name": "netty-codec-http3",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\e101928302533906eda2a3e7ed507de2dffaabca\\netty-codec-http3-4.2.12.Final-sources.jar"
                         }
                     ]
                 },
@@ -2753,6 +2927,22 @@
                             "name": "netty-buffer",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-buffer\\4.2.12.Final\\555eb424e1263bc05541a2c3762403488cfb0a8c\\netty-buffer-4.2.12.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.osgi",
+                    "name": "org.osgi.annotation.bundle",
+                    "version": "2.0.0",
+                    "artifacts": [
+                        {
+                            "name": "org.osgi.annotation.bundle",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.annotation.bundle\\2.0.0\\833f1460ce117037e9239eaf6a352eef5abf36f6\\org.osgi.annotation.bundle-2.0.0-sources.jar"
+                        },
+                        {
+                            "name": "org.osgi.annotation.bundle",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.annotation.bundle\\2.0.0\\f5c2cd6e670c3c5d440d3003efd5ef2ead5c68eb\\org.osgi.annotation.bundle-2.0.0.jar"
                         }
                     ]
                 },
@@ -2774,33 +2964,17 @@
                 },
                 {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-restclient",
+                    "name": "spring-boot-starter-test",
                     "version": "4.0.6",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-restclient",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6.jar"
+                            "name": "spring-boot-starter-test",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-test\\4.0.6\\45552b94787c926ec41e1e20d6836a6c4d307e98\\spring-boot-starter-test-4.0.6.jar"
                         },
                         {
-                            "name": "spring-boot-starter-restclient",
+                            "name": "spring-boot-starter-test",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-restclient\\4.0.6\\4854e8cc0eb01b1c43b2863fddcb4a837feb89c2\\spring-boot-starter-restclient-4.0.6-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.osgi",
-                    "name": "org.osgi.annotation.bundle",
-                    "version": "2.0.0",
-                    "artifacts": [
-                        {
-                            "name": "org.osgi.annotation.bundle",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.annotation.bundle\\2.0.0\\833f1460ce117037e9239eaf6a352eef5abf36f6\\org.osgi.annotation.bundle-2.0.0-sources.jar"
-                        },
-                        {
-                            "name": "org.osgi.annotation.bundle",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.osgi\\org.osgi.annotation.bundle\\2.0.0\\f5c2cd6e670c3c5d440d3003efd5ef2ead5c68eb\\org.osgi.annotation.bundle-2.0.0.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-test\\4.0.6\\45552b94787c926ec41e1e20d6836a6c4d307e98\\spring-boot-starter-test-4.0.6-sources.jar"
                         }
                     ]
                 },
@@ -2817,38 +2991,6 @@
                             "name": "objenesis",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.objenesis\\objenesis\\3.3\\5fef34eeee6816b0ba2170755a8a9db7744990c3\\objenesis-3.3-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "io.netty",
-                    "name": "netty-codec-http3",
-                    "version": "4.2.12.Final",
-                    "artifacts": [
-                        {
-                            "name": "netty-codec-http3",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\4c1d110b95a00688f288bc93d11acb6dba3466ca\\netty-codec-http3-4.2.12.Final.jar"
-                        },
-                        {
-                            "name": "netty-codec-http3",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-codec-http3\\4.2.12.Final\\e101928302533906eda2a3e7ed507de2dffaabca\\netty-codec-http3-4.2.12.Final-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-devtools",
-                    "version": "4.0.6",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-devtools",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-devtools\\4.0.6\\43f635242f511c43de7ca6bee2cfbd0e2c869cf6\\spring-boot-devtools-4.0.6-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-devtools",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-devtools\\4.0.6\\2f45ebafbfc961cf55d4aa4a49bc1637bd6d0d2\\spring-boot-devtools-4.0.6.jar"
                         }
                     ]
                 },
@@ -2965,22 +3107,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-tomcat-runtime",
-                    "version": "4.0.6",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-starter-tomcat-runtime",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat-runtime\\4.0.6\\93cb616795ce25f7fd58ef3d1dcc8c3ed2d82578\\spring-boot-starter-tomcat-runtime-4.0.6-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-starter-tomcat-runtime",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat-runtime\\4.0.6\\93cb616795ce25f7fd58ef3d1dcc8c3ed2d82578\\spring-boot-starter-tomcat-runtime-4.0.6.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.springframework.ai",
                     "name": "spring-ai-autoconfigure-model-openai",
                     "version": "2.0.0-M4",
@@ -2993,6 +3119,22 @@
                             "name": "spring-ai-autoconfigure-model-openai",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-model-openai\\2.0.0-M4\\a51b28d34e1d7e6f7f973b1cb94f42dfae7f8898\\spring-ai-autoconfigure-model-openai-2.0.0-M4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-tomcat-runtime",
+                    "version": "4.0.6",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-tomcat-runtime",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat-runtime\\4.0.6\\93cb616795ce25f7fd58ef3d1dcc8c3ed2d82578\\spring-boot-starter-tomcat-runtime-4.0.6-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-tomcat-runtime",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.boot\\spring-boot-starter-tomcat-runtime\\4.0.6\\93cb616795ce25f7fd58ef3d1dcc8c3ed2d82578\\spring-boot-starter-tomcat-runtime-4.0.6.jar"
                         }
                     ]
                 },
@@ -3157,18 +3299,18 @@
                     ]
                 },
                 {
-                    "organization": "org.hibernate.orm",
-                    "name": "hibernate-core",
-                    "version": "7.2.12.Final",
+                    "organization": "org.springframework.ai",
+                    "name": "spring-ai-autoconfigure-vector-store-pgvector",
+                    "version": "2.0.0-M4",
                     "artifacts": [
                         {
-                            "name": "hibernate-core",
+                            "name": "spring-ai-autoconfigure-vector-store-pgvector",
                             "classifier": "sources",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\f7c783b262eaa28a9262d5eb0d36a5b7c9ca9f70\\hibernate-core-7.2.12.Final-sources.jar"
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-pgvector\\2.0.0-M4\\96d919d377c0a568041f57c7ca7f514d3ba42023\\spring-ai-autoconfigure-vector-store-pgvector-2.0.0-M4-sources.jar"
                         },
                         {
-                            "name": "hibernate-core",
-                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\9e10d41a4cd7fbb045cb978676dffe23a0adf1e0\\hibernate-core-7.2.12.Final.jar"
+                            "name": "spring-ai-autoconfigure-vector-store-pgvector",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework.ai\\spring-ai-autoconfigure-vector-store-pgvector\\2.0.0-M4\\7372648e557804e923fb480736e043c19344cc20\\spring-ai-autoconfigure-vector-store-pgvector-2.0.0-M4.jar"
                         }
                     ]
                 },
@@ -3185,6 +3327,22 @@
                             "name": "jsonschema-module-swagger-2",
                             "classifier": "sources",
                             "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\com.github.victools\\jsonschema-module-swagger-2\\5.0.0\\665812ca09e2c437dd837ef4bd7c4571f2747240\\jsonschema-module-swagger-2-5.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.hibernate.orm",
+                    "name": "hibernate-core",
+                    "version": "7.2.12.Final",
+                    "artifacts": [
+                        {
+                            "name": "hibernate-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\f7c783b262eaa28a9262d5eb0d36a5b7c9ca9f70\\hibernate-core-7.2.12.Final-sources.jar"
+                        },
+                        {
+                            "name": "hibernate-core",
+                            "path": "C:\\Users\\david\\.gradle\\caches\\modules-2\\files-2.1\\org.hibernate.orm\\hibernate-core\\7.2.12.Final\\9e10d41a4cd7fbb045cb978676dffe23a0adf1e0\\hibernate-core-7.2.12.Final.jar"
                         }
                     ]
                 },
