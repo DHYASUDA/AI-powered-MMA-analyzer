@@ -10,7 +10,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import techskill.demo.Service.mmaService;
+import techskill.demo.Service.chatAiService;
 import tools.jackson.databind.JsonNode;
+
+import techskill.demo.DTO.fightCard;
 
 @RestController
 @RequestMapping("/api/mma")
@@ -18,9 +21,10 @@ import tools.jackson.databind.JsonNode;
 public class mmaController {
 
     private final mmaService mmaService;
-
-    public mmaController(mmaService mmaService) {
+    private final chatAiService chatService;
+    public mmaController(mmaService mmaService, chatAiService chatService) {
         this.mmaService = mmaService;
+        this.chatService = chatService;
     }
 
     @GetMapping("/upcomingEvents")
@@ -59,5 +63,9 @@ public class mmaController {
     @GetMapping("/getFighterStats")
     public JsonNode getFighterStats(@RequestParam int fighterId) {
         return mmaService.getFighterStats(fighterId);
+    }
+    @GetMapping("/ai/next-event")
+    public fightCard nextEvent(){
+        return chatService.getNextEventCard();
     }
 }

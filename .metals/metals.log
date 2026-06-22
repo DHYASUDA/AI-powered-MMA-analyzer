@@ -13932,3 +13932,589 @@ WARNING: Unmatched cancel notification for request id 466
 2026.06.19 22:20:40 WARN  Could not load snapshot text for C:\Users\david\techskill\demo\src\main\java\techskill\demo\RAG\KnowledgeBaseLoader.java
 2026.06.19 22:20:43 WARN  javac: [options] system modules path not set in conjunction with -source 17
 2026.06.19 22:20:43 INFO  time: compiled demo in 2.65s
+Jun 20, 2026 12:11:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+Jun 20, 2026 12:14:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 552
+Jun 20, 2026 12:16:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651
+Jun 20, 2026 12:16:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 650
+2026.06.20 00:16:08 INFO  compiling demo (1 java source)
+2026.06.20 00:16:09 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:16:09 WARN  javac exited with exit code 1
+2026.06.20 00:16:09 INFO  time: compiled demo in 1.02s
+Jun 20, 2026 12:16:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 666
+2026.06.20 00:16:11 INFO  file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java:99:14: stale bloop error:  error: illegal '.'
+            ..advisors(QuestionAnswerAdvisor.builder(vectorStore).build())
+             ^
+Jun 20, 2026 12:16:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 673
+2026.06.20 00:16:17 INFO  compiling demo (1 java source)
+2026.06.20 00:16:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:16:19 INFO  time: compiled demo in 2.35s
+2026.06.20 00:16:19 INFO  compiling demo (1 java source)
+2026.06.20 00:16:21 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:16:21 INFO  time: compiled demo in 2.36s
+2026.06.20 00:17:48 INFO  compiling demo (1 java source)
+2026.06.20 00:17:50 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:17:50 INFO  time: compiled demo in 2.37s
+Jun 20, 2026 12:28:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 780
+Jun 20, 2026 12:41:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 820
+2026.06.20 00:42:14 INFO  compiling demo (1 java source)
+2026.06.20 00:42:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:42:17 INFO  time: compiled demo in 3.19s
+2026.06.20 00:43:32 INFO  compiling demo (1 java source)
+2026.06.20 00:43:34 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.06.20 00:43:34 INFO  time: compiled demo in 2.38s
+2026.06.21 13:00:44 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.06.21 13:00:44 INFO  Memory monitor started
+2026.06.21 13:00:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.21 13:00:50 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.21 13:00:50 INFO  Attempting to connect to the build server...
+2026.06.21 13:00:51 INFO  No running Bloop server found, starting one.
+2026.06.21 13:00:55 INFO  Starting compilation server
+2026.06.21 13:00:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\david\techskill\demo\.metals\bsp.trace.json or C:\Users\david\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.06.21 13:00:59 INFO  time: Connected to build server in 8.37s
+2026.06.21 13:00:59 INFO  Connected to Build server: Bloop v2.0.19
+2026.06.21 13:00:59 INFO  time: Imported build in 0.57s
+2026.06.21 13:01:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.21 13:01:18 INFO  time: indexed workspace in 18s
+2026.06.21 13:18:27 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/RAG/KnowledgeBaseLoader.java]
+2026.06.21 13:18:27 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-06-21\r_empty-definition_(demo)_13-18-27-172.md")
+Jun 21, 2026 1:26:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Jun 21, 2026 1:46:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Jun 21, 2026 9:29:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 136
+2026.06.21 21:29:56 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_15-05-18-074.md")
+2026.06.21 21:29:56 INFO  Created report: Optional.empty
+2026.06.21 21:29:56 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:29:56 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:29:56 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:30:26 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_15-05-18-074.md")
+2026.06.21 21:30:58 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_15-05-18-074.md")
+2026.06.21 21:30:58 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_15-05-18-074.md")
+2026.06.21 21:30:58 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Service/chatAiService.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-05-26\r_qdox-error_(demo)_15-05-18-074.md")
+Jun 21, 2026 9:31:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+2026.06.21 21:31:49 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:31:49 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:31:49 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 9:32:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 441
+Jun 21, 2026 9:32:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 442
+Jun 21, 2026 9:32:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 474
+Jun 21, 2026 9:32:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 478
+Jun 21, 2026 9:32:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 496
+Jun 21, 2026 9:32:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 565
+2026.06.21 21:32:31 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:32:31 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:32:31 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:34:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:34:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:34:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:35:41 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/fightCard.java]
+2026.06.21 21:35:41 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:35:41 INFO  QDox parse error in file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/DTO/fightCard.java (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-06-21\r_qdox-error_(demo)_21-35-41-719.md")
+2026.06.21 21:35:41 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:35:41 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 9:35:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 627
+Jun 21, 2026 9:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 631
+Jun 21, 2026 9:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 630
+Jun 21, 2026 9:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 635
+Jun 21, 2026 9:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634
+Jun 21, 2026 9:35:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 636
+Jun 21, 2026 9:35:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 658
+Jun 21, 2026 9:35:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+Jun 21, 2026 9:35:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 663
+Jun 21, 2026 9:35:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 684
+Jun 21, 2026 9:35:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 685
+Jun 21, 2026 9:35:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 688
+Jun 21, 2026 9:35:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 690
+Jun 21, 2026 9:36:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 701
+Jun 21, 2026 9:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+Jun 21, 2026 9:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 792
+Jun 21, 2026 9:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 799
+Jun 21, 2026 9:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 796
+Jun 21, 2026 9:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 800
+Jun 21, 2026 9:36:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 807
+Jun 21, 2026 9:36:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 842
+Jun 21, 2026 9:36:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 855
+Jun 21, 2026 9:37:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 912
+Jun 21, 2026 9:37:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 935
+Jun 21, 2026 9:37:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 934
+Jun 21, 2026 9:37:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 981
+Jun 21, 2026 9:39:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 994
+Jun 21, 2026 9:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1007
+Jun 21, 2026 9:40:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1028
+Jun 21, 2026 9:40:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1029
+2026.06.21 21:40:06 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:40:06 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:40:06 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 9:40:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1041
+Jun 21, 2026 9:40:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1047
+Jun 21, 2026 9:41:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1059
+Jun 21, 2026 9:41:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1060
+Jun 21, 2026 9:41:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1063
+2026.06.21 21:42:13 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:42:13 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:42:13 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 9:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1076
+Jun 21, 2026 9:42:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1081
+Jun 21, 2026 9:42:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1084
+Jun 21, 2026 9:45:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1127
+Jun 21, 2026 9:45:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1137
+Jun 21, 2026 9:45:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1140
+Jun 21, 2026 9:45:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1143
+Jun 21, 2026 9:45:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1141
+Jun 21, 2026 9:45:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1148
+Jun 21, 2026 9:47:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1216
+Jun 21, 2026 9:48:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1265
+Jun 21, 2026 9:48:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1267
+Jun 21, 2026 9:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1268
+Jun 21, 2026 9:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1276
+Jun 21, 2026 9:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+Jun 21, 2026 9:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1271
+Jun 21, 2026 9:48:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1295
+Jun 21, 2026 9:48:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1298
+Jun 21, 2026 9:49:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1319
+Jun 21, 2026 9:49:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1327
+Jun 21, 2026 9:49:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1326
+Jun 21, 2026 9:49:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1346
+Jun 21, 2026 9:49:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1350
+Jun 21, 2026 9:49:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1352
+Jun 21, 2026 9:49:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1360
+Jun 21, 2026 9:49:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1361
+Jun 21, 2026 9:49:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1375
+Jun 21, 2026 9:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1384
+Jun 21, 2026 9:49:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1390
+Jun 21, 2026 9:49:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1392
+Jun 21, 2026 9:49:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1393
+Jun 21, 2026 9:49:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1394
+Jun 21, 2026 9:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1397
+Jun 21, 2026 9:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1398
+Jun 21, 2026 9:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1396
+Jun 21, 2026 9:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1405
+Jun 21, 2026 9:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1399
+Jun 21, 2026 9:49:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1408
+Jun 21, 2026 9:49:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1424
+Jun 21, 2026 9:49:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1425
+Jun 21, 2026 9:49:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1429
+Jun 21, 2026 9:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1453
+Jun 21, 2026 9:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1450
+Jun 21, 2026 9:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1456
+Jun 21, 2026 9:49:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1458
+Jun 21, 2026 9:49:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1467
+Jun 21, 2026 9:49:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1473
+Jun 21, 2026 9:50:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1487
+Jun 21, 2026 9:50:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1490
+Jun 21, 2026 9:50:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1496
+Jun 21, 2026 9:50:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1497
+Jun 21, 2026 9:50:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1503
+Jun 21, 2026 9:50:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1505
+Jun 21, 2026 9:50:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1500
+Jun 21, 2026 9:50:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1509
+Jun 21, 2026 9:50:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1510
+Jun 21, 2026 9:50:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1511
+Jun 21, 2026 9:50:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1514
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1517
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1515
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1522
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1523
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1529
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1521
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1532
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1530
+Jun 21, 2026 9:50:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1536
+Jun 21, 2026 9:50:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1550
+Jun 21, 2026 9:50:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1566
+Jun 21, 2026 9:50:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1575
+Jun 21, 2026 9:50:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1579
+Jun 21, 2026 9:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1602
+Jun 21, 2026 9:50:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1612
+Jun 21, 2026 9:50:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1618
+Jun 21, 2026 9:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1640
+Jun 21, 2026 9:51:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1642
+Jun 21, 2026 9:51:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1645
+2026.06.21 21:51:12 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:51:12 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 21:51:12 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 9:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1680
+Jun 21, 2026 9:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1679
+Jun 21, 2026 9:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1681
+Jun 21, 2026 9:52:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1717
+Jun 21, 2026 9:52:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1727
+Jun 21, 2026 9:52:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1739
+Jun 21, 2026 10:21:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1784
+Jun 21, 2026 10:21:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1787
+Jun 21, 2026 10:21:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1792
+Jun 21, 2026 10:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1790
+Jun 21, 2026 10:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1800
+Jun 21, 2026 10:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1795
+Jun 21, 2026 10:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1798
+Jun 21, 2026 10:21:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1816
+Jun 21, 2026 10:21:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1813
+Jun 21, 2026 10:21:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1819
+Jun 21, 2026 10:21:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1817
+Jun 21, 2026 10:21:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1821
+Jun 21, 2026 10:21:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1833
+2026.06.21 22:22:00 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:22:00 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:22:00 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 10:22:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1891
+Jun 21, 2026 10:22:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1900
+Jun 21, 2026 10:22:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1905
+Jun 21, 2026 10:22:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1991
+Jun 21, 2026 10:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2001
+Jun 21, 2026 10:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2002
+Jun 21, 2026 10:22:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2003
+Jun 21, 2026 10:22:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2011
+Jun 21, 2026 10:23:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2052
+Jun 21, 2026 10:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2055
+Jun 21, 2026 10:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2054
+Jun 21, 2026 10:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2056
+Jun 21, 2026 10:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2057
+Jun 21, 2026 10:24:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2079
+Jun 21, 2026 10:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2097
+Jun 21, 2026 10:24:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2103
+Jun 21, 2026 10:24:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2126
+Jun 21, 2026 10:24:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2146
+Jun 21, 2026 10:24:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2164
+Jun 21, 2026 10:24:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2167
+Jun 21, 2026 10:26:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2207
+Jun 21, 2026 10:26:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2231
+2026.06.21 22:26:25 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:26:25 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:26:25 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 10:27:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2265
+Jun 21, 2026 10:28:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2273
+Jun 21, 2026 10:28:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2293
+Jun 21, 2026 10:29:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2309
+Jun 21, 2026 10:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2321
+Jun 21, 2026 10:30:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2325
+Jun 21, 2026 10:30:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2332
+Jun 21, 2026 10:30:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2337
+Jun 21, 2026 10:30:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2340
+Jun 21, 2026 10:30:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2343
+Jun 21, 2026 10:30:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2341
+Jun 21, 2026 10:30:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2351
+Jun 21, 2026 10:30:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2353
+Jun 21, 2026 10:30:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2354
+Jun 21, 2026 10:30:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2355
+Jun 21, 2026 10:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2358
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2364
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2372
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2371
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2377
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2381
+Jun 21, 2026 10:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2369
+Jun 21, 2026 10:30:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2384
+Jun 21, 2026 10:30:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2382
+Jun 21, 2026 10:32:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2446
+Jun 21, 2026 10:32:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2447
+Jun 21, 2026 10:32:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2451
+Jun 21, 2026 10:32:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2450
+Jun 21, 2026 10:32:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2458
+Jun 21, 2026 10:32:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2454
+Jun 21, 2026 10:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2460
+Jun 21, 2026 10:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2467
+Jun 21, 2026 10:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2462
+2026.06.21 22:32:37 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:32:37 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:32:37 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 10:32:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2473
+Jun 21, 2026 10:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2477
+Jun 21, 2026 10:33:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2484
+Jun 21, 2026 10:33:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2483
+Jun 21, 2026 10:33:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2494
+Jun 21, 2026 10:33:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2501
+Jun 21, 2026 10:33:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2503
+Jun 21, 2026 10:34:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2509
+2026.06.21 22:36:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:36:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:36:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 10:37:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2655
+Jun 21, 2026 10:44:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2755
+Jun 21, 2026 10:44:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2769
+Jun 21, 2026 10:48:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2822
+Jun 21, 2026 10:48:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2839
+Jun 21, 2026 10:48:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2858
+Jun 21, 2026 10:48:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2864
+Jun 21, 2026 10:48:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2866
+Jun 21, 2026 10:48:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2876
+Jun 21, 2026 10:48:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2884
+Jun 21, 2026 10:48:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2898
+Jun 21, 2026 10:48:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2893
+Jun 21, 2026 10:48:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2899
+Jun 21, 2026 10:48:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2900
+Jun 21, 2026 10:49:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2949
+2026.06.21 22:49:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:49:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:49:16 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+Jun 21, 2026 10:49:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2990
+Jun 21, 2026 10:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3009
+Jun 21, 2026 10:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3012
+Jun 21, 2026 10:49:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3013
+Jun 21, 2026 10:50:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3046
+Jun 21, 2026 10:50:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3052
+Jun 21, 2026 10:50:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3057
+Jun 21, 2026 10:50:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3064
+Jun 21, 2026 10:50:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3068
+Jun 21, 2026 10:50:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3069
+Jun 21, 2026 10:50:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3079
+Jun 21, 2026 10:50:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3080
+Jun 21, 2026 10:50:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3082
+Jun 21, 2026 10:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3086
+Jun 21, 2026 10:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3084
+Jun 21, 2026 10:50:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3165
+Jun 21, 2026 10:50:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3178
+Jun 21, 2026 10:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3188
+Jun 21, 2026 10:50:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3226
+2026.06.21 22:51:17 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:51:17 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:51:17 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:51:33 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/mmaController.java]
+2026.06.21 22:51:33 INFO  empty definition using pc, found symbol in pc: _empty_/chatAiService#getNextEventCard# (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-06-21\r_empty-definition_(demo)_22-51-33-697.md")
+2026.06.21 22:51:33 INFO  Created report: Optional[file:///C:/Users/david/techskill/demo/src/main/java/techskill/demo/Controller/mmaController.java]
+2026.06.21 22:51:33 INFO  empty definition using pc, found symbol in pc: _empty_/chatAiService# (full report at: "C:\Users\david\techskill\demo\.metals\.reports\metals-full\2026-06-21\r_empty-definition_(demo)_22-51-33-721.md")
+2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
