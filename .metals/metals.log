@@ -14518,3 +14518,47 @@ WARNING: Unmatched cancel notification for request id 3226
 2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
 2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
 2026.06.21 22:51:34 INFO  No project associated with Uri(file:/C:/Users/david/techskill/demo/?id=demo) (full report at: "C:\Users\david\techskill\demo\.metals\.reports\bloop\2026-06-21\r_No project associate..._21-29-56-488.md")
+2026.06.23 20:31:02 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\david\techskill\demo' for client Cursor 1.105.1.
+2026.06.23 20:31:02 INFO  Memory monitor started
+2026.06.23 20:31:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.23 20:31:07 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 20:31:07 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 20:31:07 INFO  skipping build import with status 'Installed'
+2026.06.23 20:31:08 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java
+2026.06.23 20:31:11 INFO  time: code lens generation in 3.33s
+2026.06.23 20:31:13 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 20:31:26 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 20:33:26 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 21:02:30 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userEdit.java
+2026.06.23 21:02:30 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userEdit.java. Using fallback presentation compiler.
+2026.06.23 21:02:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userEdit.java. Using fallback presentation compiler.
+2026.06.23 21:05:06 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java
+2026.06.23 21:05:06 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java. Using fallback presentation compiler.
+2026.06.23 21:05:07 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\DTO\userDTO.java. Using fallback presentation compiler.
+2026.06.23 21:05:08 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\sportsDataConfig.java
+2026.06.23 21:05:08 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\sportsDataConfig.java. Using fallback presentation compiler.
+2026.06.23 21:05:09 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\sportsDataConfig.java. Using fallback presentation compiler.
+2026.06.23 21:05:10 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\sportsDataConfig.java. Using fallback presentation compiler.
+2026.06.23 21:05:18 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\WebConfig.java
+2026.06.23 21:05:18 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\WebConfig.java. Using fallback presentation compiler.
+2026.06.23 21:05:19 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\config\WebConfig.java. Using fallback presentation compiler.
+2026.06.23 21:05:20 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\chatController.java
+2026.06.23 21:05:20 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\chatController.java. Using fallback presentation compiler.
+2026.06.23 21:05:22 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\chatController.java. Using fallback presentation compiler.
+2026.06.23 21:05:23 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java
+2026.06.23 21:05:23 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 21:05:24 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\mmaController.java. Using fallback presentation compiler.
+2026.06.23 21:05:29 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java
+2026.06.23 21:05:29 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.06.23 21:05:30 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.06.23 21:05:31 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.06.23 21:05:32 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Controller\userController.java. Using fallback presentation compiler.
+2026.06.23 21:05:43 WARN  no build target for: C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java
+2026.06.23 21:05:43 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:05:44 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:05:45 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:05:54 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:05:59 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:06:03 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:06:03 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
+2026.06.23 21:14:44 INFO  no build target found for C:\Users\david\techskill\demo\src\main\java\techskill\demo\Service\chatAiService.java. Using fallback presentation compiler.
