@@ -1,3 +1,4 @@
+Frontend (React) https://github.com/DHYASUDA/AI-MMA-analyzer-frontend
 # MMA AI Assistant
 
 A Spring Boot backend that combines live MMA data from [SportsData.io](https://sportsdata.io/) with an OpenAI-powered chat assistant. The assistant answers questions about upcoming events, fighter stats, and matchups, and uses RAG (Retrieval-Augmented Generation) over a local MMA knowledge base stored in PostgreSQL with pgvector.
